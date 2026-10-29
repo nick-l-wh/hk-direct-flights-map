@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="zh-Hant-HK">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>香港國際機場直航地圖</title>
+  <meta name="description" content="香港國際機場（HKG）非經停客運航點地圖。截至 2026年10月29日，146 個城市、152 個機場。">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&amp;display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="vendor/maplibre/maplibre-gl.css">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Ccircle cx='8' cy='8' r='5' fill='%232563eb' stroke='white' stroke-width='2'/%3E%3C/svg%3E">
+</head>
+<body>
+  <header>
+    <div class="brand">
+      <span class="mark" aria-hidden="true"></span>
+      <div>
+        <h1>香港國際機場直航地圖</h1>
+        <p id="subtitle">正在載入航點資料…</p>
+      </div>
+    </div>
+    <div class="header-side">
+      <div id="header-stats"></div>
+      <button type="button" id="panel-toggle" aria-expanded="true" aria-controls="panel">隱藏列表</button>
+    </div>
+  </header>
+  <div class="layout">
+    <aside id="panel">
+      <div class="controls">
+        <label class="field" for="search">搜尋城市或機場代碼
+          <input id="search" type="search" placeholder="例如：大阪、Tokyo、NRT" autocomplete="off">
+        </label>
+        <div class="row-2">
+          <label class="field" for="airline">航空公司
+            <select id="airline"><option value="all">全部航空公司</option></select>
+          </label>
+          <label class="field" for="status">備註
+            <select id="status">
+              <option value="all">全部航點</option>
+              <option value="noted">有備註</option>
+              <option value="季節性">季節性</option>
+              <option value="新開航">新開航</option>
+              <option value="復航">復航</option>
+              <option value="暫停">暫停</option>
+            </select>
+          </label>
+        </div>
+        <div class="regions" id="regions" role="group" aria-label="按地區篩選"></div>
+      </div>
+      <div class="list-head">
+        <span id="list-meta">航點</span>
+        <button type="button" id="reset" hidden>重設篩選</button>
+      </div>
+      <ul id="list"></ul>
+      <footer class="about" id="about"></footer>
+    </aside>
+    <main id="map" role="application" aria-label="由香港國際機場出發的直航地圖"></main>
+  </div>
+  <noscript>此地圖需要 JavaScript 才能顯示航點及航線。</noscript>
+  <script src="vendor/maplibre/maplibre-gl.js"></script>
+  <script src="js/geo.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
