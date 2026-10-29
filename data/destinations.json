@@ -1,0 +1,4593 @@
+{
+  "meta": {
+    "asOf": "2026-10-29",
+    "asOfLabel": "2026年10月29日",
+    "cityCount": 146,
+    "airportCount": 152,
+    "origin": {
+      "iata": "HKG",
+      "icao": "VHHH",
+      "ourAirportsId": "VHHH",
+      "cityZh": "香港",
+      "cityEn": "Hong Kong",
+      "airportName": "Hong Kong International Airport",
+      "lat": 22.31184,
+      "lon": 113.914862
+    },
+    "regions": [
+      {
+        "id": "CN",
+        "zh": "中國內地"
+      },
+      {
+        "id": "TW",
+        "zh": "台灣／澳門"
+      },
+      {
+        "id": "JP",
+        "zh": "日本"
+      },
+      {
+        "id": "KR",
+        "zh": "韓國"
+      },
+      {
+        "id": "SEA",
+        "zh": "東南亞"
+      },
+      {
+        "id": "SA",
+        "zh": "南亞"
+      },
+      {
+        "id": "ME",
+        "zh": "中東"
+      },
+      {
+        "id": "EU",
+        "zh": "歐洲"
+      },
+      {
+        "id": "NA",
+        "zh": "北美"
+      },
+      {
+        "id": "OC",
+        "zh": "大洋洲"
+      },
+      {
+        "id": "AF",
+        "zh": "非洲"
+      },
+      {
+        "id": "OA",
+        "zh": "其他亞洲（中亞／蒙古）"
+      }
+    ],
+    "sources": [
+      {
+        "role": "destinations",
+        "name": "Wikipedia — Hong Kong International Airport — Airlines and destinations",
+        "url": "https://en.wikipedia.org/wiki/Hong_Kong_International_Airport#Airlines_and_destinations",
+        "note": "客運直航航點、航空公司及季節性／新開航／暫停備註取自該頁航點表，整理截至 2026年10月29日（維基百科引用資料存取日期 2026-10-17）。不包括貨運。航空公司名稱保留英文。"
+      },
+      {
+        "role": "coordinates",
+        "name": "OurAirports",
+        "url": "https://ourairports.com/data/",
+        "note": "緯度、經度、英文機場名稱及 ICAO 以 IATA 代碼對照 OurAirports airports.csv，只採用 scheduled_service 為 yes 的 large_airport 或 medium_airport。金邊為 Techo International Airport（KTI／VDTI）；舊碼 PNH 已無定期航班。烏蘭巴托為 Chinggis Khaan International Airport（UBN／ZMCK）；舊碼 ULN 已無定期航班。",
+        "airportsCsvSha256": "9c1f3295b59f84c475f8c8555fa102505d7b4af0f931002cc5558dfeee1e43aa"
+      }
+    ],
+    "macauNote": "澳門與香港之間沒有定期客運航班，因此「台灣／澳門」只列出台灣航點。"
+  },
+  "destinations": [
+    {
+      "iata": "PEK",
+      "icao": "ZBAA",
+      "ourAirportsId": "ZBAA",
+      "cityZh": "北京首都",
+      "cityEn": "Beijing–Capital",
+      "cityKey": "Beijing",
+      "airportName": "Beijing Capital International Airport",
+      "municipality": "Beijing",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 40.077349,
+      "lon": 116.596702,
+      "airlines": [
+        {
+          "name": "Air China",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Hong Kong Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Air China、Cathay Pacific、Hong Kong Airlines"
+    },
+    {
+      "iata": "PKX",
+      "icao": "ZBAD",
+      "ourAirportsId": "ZBAD",
+      "cityZh": "北京大興",
+      "cityEn": "Beijing–Daxing",
+      "cityKey": "Beijing",
+      "airportName": "Beijing Daxing International Airport",
+      "municipality": "Beijing",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 39.501289,
+      "lon": 116.413967,
+      "airlines": [
+        {
+          "name": "Air China",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "China Eastern Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "China Southern Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "HK Express",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Hong Kong Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Air China、China Eastern Airlines、China Southern Airlines、HK Express、Hong Kong Airlines"
+    },
+    {
+      "iata": "CGQ",
+      "icao": "ZYCC",
+      "ourAirportsId": "ZYCC",
+      "cityZh": "長春",
+      "cityEn": "Changchun",
+      "cityKey": "Changchun",
+      "airportName": "Changchun Longjia International Airport",
+      "municipality": "Changchun",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 43.996201,
+      "lon": 125.684998,
+      "airlines": [
+        {
+          "name": "Hainan Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Hainan Airlines"
+    },
+    {
+      "iata": "CSX",
+      "icao": "ZGHA",
+      "ourAirportsId": "ZGHA",
+      "cityZh": "長沙",
+      "cityEn": "Changsha",
+      "cityKey": "Changsha",
+      "airportName": "Changsha Huanghua International Airport",
+      "municipality": "Changsha (Changsha)",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 28.189199,
+      "lon": 113.220001,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "iata": "CZX",
+      "icao": "ZSCG",
+      "ourAirportsId": "ZSCG",
+      "cityZh": "常州",
+      "cityEn": "Changzhou",
+      "cityKey": "Changzhou",
+      "airportName": "Changzhou Benniu International Airport",
+      "municipality": "Changzhou",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 31.920485,
+      "lon": 119.77546,
+      "airlines": [
+        {
+          "name": "HK Express",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "HK Express"
+    },
+    {
+      "iata": "CTU",
+      "icao": "ZUUU",
+      "ourAirportsId": "ZUUU",
+      "cityZh": "成都雙流",
+      "cityEn": "Chengdu–Shuangliu",
+      "cityKey": "Chengdu",
+      "airportName": "Chengdu Shuangliu International Airport",
+      "municipality": "Chengdu (Shuangliu)",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 30.558257,
+      "lon": 103.945966,
+      "airlines": [
+        {
+          "name": "Air China",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Hong Kong Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Sichuan Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Air China、Cathay Pacific、Hong Kong Airlines、Sichuan Airlines"
+    },
+    {
+      "iata": "TFU",
+      "icao": "ZUTF",
+      "ourAirportsId": "ZUTF",
+      "cityZh": "成都天府",
+      "cityEn": "Chengdu–Tianfu",
+      "cityKey": "Chengdu",
+      "airportName": "Chengdu Tianfu International Airport",
+      "municipality": "Chengdu (Jianyang)",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 30.31252,
+      "lon": 104.441284,
+      "airlines": [
+        {
+          "name": "Air China",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Shenzhen Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Tibet Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Air China、Shenzhen Airlines、Tibet Airlines"
+    },
+    {
+      "iata": "CKG",
+      "icao": "ZUCK",
+      "ourAirportsId": "ZUCK",
+      "cityZh": "重慶",
+      "cityEn": "Chongqing",
+      "cityKey": "Chongqing",
+      "airportName": "Chongqing Jiangbei International Airport",
+      "municipality": "Chongqing",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 29.712254,
+      "lon": 106.651895,
+      "airlines": [
+        {
+          "name": "Air China",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Chongqing Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Greater Bay Airlines",
+          "note": "季節性",
+          "tags": [
+            "季節性"
+          ]
+        },
+        {
+          "name": "Hong Kong Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [
+        "Greater Bay Airlines：季節性"
+      ],
+      "airlinesRaw": "Air China、Cathay Pacific、Chongqing Airlines、Greater Bay Airlines（季節性）、Hong Kong Airlines"
+    },
+    {
+      "iata": "DLC",
+      "icao": "ZYTL",
+      "ourAirportsId": "ZYTL",
+      "cityZh": "大連",
+      "cityEn": "Dalian",
+      "cityKey": "Dalian",
+      "airportName": "Dalian Zhoushuizi International Airport",
+      "municipality": "Dalian (Ganjingzi)",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 38.965719,
+      "lon": 121.538477,
+      "airlines": [
+        {
+          "name": "Air China",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Air China"
+    },
+    {
+      "iata": "DAT",
+      "icao": "ZBDT",
+      "ourAirportsId": "ZBDT",
+      "cityZh": "大同",
+      "cityEn": "Datong",
+      "cityKey": "Datong",
+      "airportName": "Datong Yungang International Airport",
+      "municipality": "Datong",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 40.06139,
+      "lon": 113.480509,
+      "airlines": [
+        {
+          "name": "Greater Bay Airlines",
+          "note": "季節性",
+          "tags": [
+            "季節性"
+          ]
+        }
+      ],
+      "notes": [
+        "Greater Bay Airlines：季節性"
+      ],
+      "airlinesRaw": "Greater Bay Airlines（季節性）"
+    },
+    {
+      "iata": "DNH",
+      "icao": "ZLDH",
+      "ourAirportsId": "ZLDH",
+      "cityZh": "敦煌",
+      "cityEn": "Dunhuang",
+      "cityKey": "Dunhuang",
+      "airportName": "Dunhuang Mogao International Airport",
+      "municipality": "Dunhuang",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 40.161953,
+      "lon": 94.812827,
+      "airlines": [
+        {
+          "name": "Greater Bay Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Hong Kong Airlines",
+          "note": "季節性",
+          "tags": [
+            "季節性"
+          ]
+        }
+      ],
+      "notes": [
+        "Hong Kong Airlines：季節性"
+      ],
+      "airlinesRaw": "Greater Bay Airlines、Hong Kong Airlines（季節性）"
+    },
+    {
+      "iata": "ENH",
+      "icao": "ZHES",
+      "ourAirportsId": "ZHES",
+      "cityZh": "恩施",
+      "cityEn": "Enshi",
+      "cityKey": "Enshi",
+      "airportName": "Enshi Xujiaping Airport",
+      "municipality": "Enshi (Enshi)",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 30.320299,
+      "lon": 109.485001,
+      "airlines": [
+        {
+          "name": "Greater Bay Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Greater Bay Airlines"
+    },
+    {
+      "iata": "FOC",
+      "icao": "ZSFZ",
+      "ourAirportsId": "ZSFZ",
+      "cityZh": "福州",
+      "cityEn": "Fuzhou",
+      "cityKey": "Fuzhou",
+      "airportName": "Fuzhou Changle International Airport",
+      "municipality": "Fuzhou (Changle)",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 25.929254,
+      "lon": 119.672524,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "XiamenAir",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific、XiamenAir"
+    },
+    {
+      "iata": "CAN",
+      "icao": "ZGGG",
+      "ourAirportsId": "ZGGG",
+      "cityZh": "廣州",
+      "cityEn": "Guangzhou",
+      "cityKey": "Guangzhou",
+      "airportName": "Guangzhou Baiyun International Airport",
+      "municipality": "Guangzhou (Huadu)",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 23.392401,
+      "lon": 113.299004,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "iata": "KWL",
+      "icao": "ZGKL",
+      "ourAirportsId": "ZGKL",
+      "cityZh": "桂林",
+      "cityEn": "Guilin",
+      "cityKey": "Guilin",
+      "airportName": "Guilin Liangjiang International Airport",
+      "municipality": "Guilin (Lingui)",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 25.219828,
+      "lon": 110.039553,
+      "airlines": [
+        {
+          "name": "Greater Bay Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Greater Bay Airlines"
+    },
+    {
+      "iata": "HAK",
+      "icao": "ZJHK",
+      "ourAirportsId": "ZJHK",
+      "cityZh": "海口",
+      "cityEn": "Haikou",
+      "cityKey": "Haikou",
+      "airportName": "Haikou Meilan International Airport",
+      "municipality": "Haikou (Meilan)",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 19.9349,
+      "lon": 110.459,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Hainan Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Hong Kong Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific、Hainan Airlines、Hong Kong Airlines"
+    },
+    {
+      "iata": "HLD",
+      "icao": "ZBLA",
+      "ourAirportsId": "ZBLA",
+      "cityZh": "海拉爾",
+      "cityEn": "Hailar",
+      "cityKey": "Hailar",
+      "airportName": "Hulunbuir Hailar Airport",
+      "municipality": "Hailar",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 49.208616,
+      "lon": 119.822301,
+      "airlines": [
+        {
+          "name": "Hong Kong Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Hong Kong Airlines"
+    },
+    {
+      "iata": "HGH",
+      "icao": "ZSHC",
+      "ourAirportsId": "ZSHC",
+      "cityZh": "杭州",
+      "cityEn": "Hangzhou",
+      "cityKey": "Hangzhou",
+      "airportName": "Hangzhou Xiaoshan International Airport",
+      "municipality": "Hangzhou",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 30.23609,
+      "lon": 120.428865,
+      "airlines": [
+        {
+          "name": "Air China",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "China Eastern Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Hong Kong Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Loong Air",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Air China、Cathay Pacific、China Eastern Airlines、Hong Kong Airlines、Loong Air"
+    },
+    {
+      "iata": "HRB",
+      "icao": "ZYHB",
+      "ourAirportsId": "ZYHB",
+      "cityZh": "哈爾濱",
+      "cityEn": "Harbin",
+      "cityKey": "Harbin",
+      "airportName": "Harbin Taiping International Airport",
+      "municipality": "Harbin",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 45.623402,
+      "lon": 126.25,
+      "airlines": [
+        {
+          "name": "China Southern Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "China Southern Airlines"
+    },
+    {
+      "iata": "HFE",
+      "icao": "ZSOF",
+      "ourAirportsId": "ZSOF",
+      "cityZh": "合肥",
+      "cityEn": "Hefei",
+      "cityKey": "Hefei",
+      "airportName": "Hefei Xinqiao International Airport",
+      "municipality": "Hefei",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 31.98779,
+      "lon": 116.9769,
+      "airlines": [
+        {
+          "name": "China Eastern Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "HK Express",
+          "note": "2026-12-03 開航",
+          "tags": [
+            "新開航"
+          ]
+        }
+      ],
+      "notes": [
+        "HK Express：2026-12-03 開航"
+      ],
+      "airlinesRaw": "China Eastern Airlines、HK Express（2026-12-03 開航）"
+    },
+    {
+      "iata": "HET",
+      "icao": "ZBHH",
+      "ourAirportsId": "ZBHH",
+      "cityZh": "呼和浩特",
+      "cityEn": "Hohhot",
+      "cityKey": "Hohhot",
+      "airportName": "Hohhot Baita International Airport",
+      "municipality": "Hohhot",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 40.849658,
+      "lon": 111.824598,
+      "airlines": [
+        {
+          "name": "Greater Bay Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Greater Bay Airlines"
+    },
+    {
+      "iata": "TNA",
+      "icao": "ZSJN",
+      "ourAirportsId": "ZSJN",
+      "cityZh": "濟南",
+      "cityEn": "Jinan",
+      "cityKey": "Jinan",
+      "airportName": "Jinan Yaoqiang International Airport",
+      "municipality": "Jinan (Licheng)",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 36.857201,
+      "lon": 117.216003,
+      "airlines": [
+        {
+          "name": "Shandong Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Shandong Airlines"
+    },
+    {
+      "iata": "KMG",
+      "icao": "ZPPP",
+      "ourAirportsId": "ZPPP",
+      "cityZh": "昆明",
+      "cityEn": "Kunming",
+      "cityKey": "Kunming",
+      "airportName": "Kunming Changshui International Airport",
+      "municipality": "Kunming",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 25.110313,
+      "lon": 102.936743,
+      "airlines": [
+        {
+          "name": "China Eastern Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Greater Bay Airlines",
+          "note": "季節性",
+          "tags": [
+            "季節性"
+          ]
+        }
+      ],
+      "notes": [
+        "Greater Bay Airlines：季節性"
+      ],
+      "airlinesRaw": "China Eastern Airlines、Greater Bay Airlines（季節性）"
+    },
+    {
+      "iata": "LHW",
+      "icao": "ZLLL",
+      "ourAirportsId": "ZLLL",
+      "cityZh": "蘭州",
+      "cityEn": "Lanzhou",
+      "cityKey": "Lanzhou",
+      "airportName": "Lanzhou Zhongchuan International Airport",
+      "municipality": "Lanzhou (Yongdeng)",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 36.515202,
+      "lon": 103.620003,
+      "airlines": [
+        {
+          "name": "China Eastern Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "China Eastern Airlines"
+    },
+    {
+      "iata": "LXA",
+      "icao": "ZULS",
+      "ourAirportsId": "ZULS",
+      "cityZh": "拉薩",
+      "cityEn": "Lhasa",
+      "cityKey": "Lhasa",
+      "airportName": "Lhasa Gonggar International Airport",
+      "municipality": "Shannan (Gonggar)",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 29.298001,
+      "lon": 90.911951,
+      "airlines": [
+        {
+          "name": "Tibet Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Tibet Airlines"
+    },
+    {
+      "iata": "LJG",
+      "icao": "ZPLJ",
+      "ourAirportsId": "ZPLJ",
+      "cityZh": "麗江",
+      "cityEn": "Lijiang",
+      "cityKey": "Lijiang",
+      "airportName": "Lijiang Sanyi International Airport",
+      "municipality": "Lijiang",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 26.677483,
+      "lon": 100.244944,
+      "airlines": [
+        {
+          "name": "Hong Kong Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Hong Kong Airlines"
+    },
+    {
+      "iata": "NKG",
+      "icao": "ZSNJ",
+      "ourAirportsId": "ZSNJ",
+      "cityZh": "南京",
+      "cityEn": "Nanjing",
+      "cityKey": "Nanjing",
+      "airportName": "Nanjing Lukou International Airport",
+      "municipality": "Nanjing",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 31.735032,
+      "lon": 118.865949,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "China Eastern Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Hong Kong Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific、China Eastern Airlines、Hong Kong Airlines"
+    },
+    {
+      "iata": "NNG",
+      "icao": "ZGNN",
+      "ourAirportsId": "ZGNN",
+      "cityZh": "南寧",
+      "cityEn": "Nanning",
+      "cityKey": "Nanning",
+      "airportName": "Nanning Wuxu International Airport",
+      "municipality": "Nanning (Jiangnan)",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 22.598071,
+      "lon": 108.181922,
+      "airlines": [
+        {
+          "name": "Shenzhen Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Shenzhen Airlines"
+    },
+    {
+      "iata": "NGB",
+      "icao": "ZSNB",
+      "ourAirportsId": "ZSNB",
+      "cityZh": "寧波",
+      "cityEn": "Ningbo",
+      "cityKey": "Ningbo",
+      "airportName": "Ningbo Lishe International Airport",
+      "municipality": "Ningbo",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 29.8267,
+      "lon": 121.461998,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "China Eastern Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "HK Express",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific、China Eastern Airlines、HK Express"
+    },
+    {
+      "iata": "TAO",
+      "icao": "ZSQD",
+      "ourAirportsId": "ZSQD",
+      "cityZh": "青島",
+      "cityEn": "Qingdao",
+      "cityKey": "Qingdao",
+      "airportName": "Qingdao Jiaodong International Airport",
+      "municipality": "Qingdao (Jiaozhou)",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 36.361953,
+      "lon": 120.088171,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Qingdao Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Shandong Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific、Qingdao Airlines、Shandong Airlines"
+    },
+    {
+      "iata": "SYX",
+      "icao": "ZJSY",
+      "ourAirportsId": "ZJSY",
+      "cityZh": "三亞",
+      "cityEn": "Sanya",
+      "cityKey": "Sanya",
+      "airportName": "Sanya Phoenix International Airport",
+      "municipality": "Sanya (Tianya)",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 18.3029,
+      "lon": 109.412003,
+      "airlines": [
+        {
+          "name": "HK Express",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Hong Kong Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "HK Express、Hong Kong Airlines"
+    },
+    {
+      "iata": "SHA",
+      "icao": "ZSSS",
+      "ourAirportsId": "ZSSS",
+      "cityZh": "上海虹橋",
+      "cityEn": "Shanghai–Hongqiao",
+      "cityKey": "Shanghai",
+      "airportName": "Shanghai Hongqiao International Airport",
+      "municipality": "Shanghai (Minhang)",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 31.198104,
+      "lon": 121.33426,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "China Eastern Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Hong Kong Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Shanghai Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific、China Eastern Airlines、Hong Kong Airlines、Shanghai Airlines"
+    },
+    {
+      "iata": "PVG",
+      "icao": "ZSPD",
+      "ourAirportsId": "ZSPD",
+      "cityZh": "上海浦東",
+      "cityEn": "Shanghai–Pudong",
+      "cityKey": "Shanghai",
+      "airportName": "Shanghai Pudong International Airport",
+      "municipality": "Shanghai (Pudong)",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 31.1434,
+      "lon": 121.805,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "China Eastern Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Hong Kong Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Juneyao Air",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Shanghai Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Spring Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific、China Eastern Airlines、Hong Kong Airlines、Juneyao Air、Shanghai Airlines、Spring Airlines"
+    },
+    {
+      "iata": "SHE",
+      "icao": "ZYTX",
+      "ourAirportsId": "ZYTX",
+      "cityZh": "瀋陽",
+      "cityEn": "Shenyang",
+      "cityKey": "Shenyang",
+      "airportName": "Shenyang Taoxian International Airport",
+      "municipality": "Shenyang",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 41.6398,
+      "lon": 123.483668,
+      "airlines": [
+        {
+          "name": "China Southern Airlines",
+          "note": "季節性",
+          "tags": [
+            "季節性"
+          ]
+        }
+      ],
+      "notes": [
+        "China Southern Airlines：季節性"
+      ],
+      "airlinesRaw": "China Southern Airlines（季節性）"
+    },
+    {
+      "iata": "SJW",
+      "icao": "ZBSJ",
+      "ourAirportsId": "ZBSJ",
+      "cityZh": "石家莊",
+      "cityEn": "Shijiazhuang",
+      "cityKey": "Shijiazhuang",
+      "airportName": "Shijiazhuang Zhengding International Airport",
+      "municipality": "Shijiazhuang",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 38.280701,
+      "lon": 114.696999,
+      "airlines": [
+        {
+          "name": "Hebei Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Hebei Airlines"
+    },
+    {
+      "iata": "TYN",
+      "icao": "ZBYN",
+      "ourAirportsId": "ZBYN",
+      "cityZh": "太原",
+      "cityEn": "Taiyuan",
+      "cityKey": "Taiyuan",
+      "airportName": "Taiyuan Wusu International Airport",
+      "municipality": "Taiyuan",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 37.746899,
+      "lon": 112.627998,
+      "airlines": [
+        {
+          "name": "China Eastern Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "China Eastern Airlines"
+    },
+    {
+      "iata": "TSN",
+      "icao": "ZBTJ",
+      "ourAirportsId": "ZBTJ",
+      "cityZh": "天津",
+      "cityEn": "Tianjin",
+      "cityKey": "Tianjin",
+      "airportName": "Tianjin Binhai International Airport",
+      "municipality": "Tianjin",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 39.124401,
+      "lon": 117.346001,
+      "airlines": [
+        {
+          "name": "Air China",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Air China"
+    },
+    {
+      "iata": "WNZ",
+      "icao": "ZSWZ",
+      "ourAirportsId": "ZSWZ",
+      "cityZh": "溫州",
+      "cityEn": "Wenzhou",
+      "cityKey": "Wenzhou",
+      "airportName": "Wenzhou Longwan International Airport",
+      "municipality": "Wenzhou (Longwan)",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 27.910572,
+      "lon": 120.853465,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "iata": "WUH",
+      "icao": "ZHHH",
+      "ourAirportsId": "ZHHH",
+      "cityZh": "武漢",
+      "cityEn": "Wuhan",
+      "cityKey": "Wuhan",
+      "airportName": "Wuhan Tianhe International Airport",
+      "municipality": "Wuhan (Huangpi)",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 30.774798,
+      "lon": 114.213723,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "China Eastern Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific、China Eastern Airlines"
+    },
+    {
+      "iata": "WUX",
+      "icao": "ZSWX",
+      "ourAirportsId": "ZSWX",
+      "cityZh": "無錫",
+      "cityEn": "Wuxi",
+      "cityKey": "Wuxi",
+      "airportName": "Sunan Shuofang International Airport",
+      "municipality": "Wuxi",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 31.496952,
+      "lon": 120.43038,
+      "airlines": [
+        {
+          "name": "HK Express",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Shenzhen Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "HK Express、Shenzhen Airlines"
+    },
+    {
+      "iata": "XIY",
+      "icao": "ZLXY",
+      "ourAirportsId": "ZLXY",
+      "cityZh": "西安",
+      "cityEn": "Xi'an",
+      "cityKey": "Xi'an",
+      "airportName": "Xi'an Xianyang International Airport",
+      "municipality": "Xi'an",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 34.442207,
+      "lon": 108.762385,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "China Eastern Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Hong Kong Airlines",
+          "note": "季節性",
+          "tags": [
+            "季節性"
+          ]
+        }
+      ],
+      "notes": [
+        "Hong Kong Airlines：季節性"
+      ],
+      "airlinesRaw": "Cathay Pacific、China Eastern Airlines、Hong Kong Airlines（季節性）"
+    },
+    {
+      "iata": "XMN",
+      "icao": "ZSAM",
+      "ourAirportsId": "ZSAM",
+      "cityZh": "廈門",
+      "cityEn": "Xiamen",
+      "cityKey": "Xiamen",
+      "airportName": "Xiamen Gaoqi International Airport",
+      "municipality": "Xiamen",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 24.543889,
+      "lon": 118.127454,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "iata": "XNN",
+      "icao": "ZLXN",
+      "ourAirportsId": "ZLXN",
+      "cityZh": "西寧",
+      "cityEn": "Xining",
+      "cityKey": "Xining",
+      "airportName": "Xining Caojiabao International Airport",
+      "municipality": "Haidong (Huzhu Tu Autonomous County)",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 36.52775,
+      "lon": 102.040215,
+      "airlines": [
+        {
+          "name": "Hong Kong Airlines",
+          "note": "季節性",
+          "tags": [
+            "季節性"
+          ]
+        }
+      ],
+      "notes": [
+        "Hong Kong Airlines：季節性"
+      ],
+      "airlinesRaw": "Hong Kong Airlines（季節性）"
+    },
+    {
+      "iata": "XUZ",
+      "icao": "ZSXZ",
+      "ourAirportsId": "ZSXZ",
+      "cityZh": "徐州",
+      "cityEn": "Xuzhou",
+      "cityKey": "Xuzhou",
+      "airportName": "Xuzhou Guanyin International Airport",
+      "municipality": "Xuzhou",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 34.059056,
+      "lon": 117.555278,
+      "airlines": [
+        {
+          "name": "Greater Bay Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Greater Bay Airlines"
+    },
+    {
+      "iata": "YIH",
+      "icao": "ZHYC",
+      "ourAirportsId": "ZHYC",
+      "cityZh": "宜昌",
+      "cityEn": "Yichang",
+      "cityKey": "Yichang",
+      "airportName": "Yichang Sanxia Airport",
+      "municipality": "Yichang (Xiaoting)",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 30.554132,
+      "lon": 111.482563,
+      "airlines": [
+        {
+          "name": "Greater Bay Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Greater Bay Airlines"
+    },
+    {
+      "iata": "INC",
+      "icao": "ZLIC",
+      "ourAirportsId": "ZLIC",
+      "cityZh": "銀川",
+      "cityEn": "Yinchuan",
+      "cityKey": "Yinchuan",
+      "airportName": "Yinchuan Hedong International Airport",
+      "municipality": "Yinchuan",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 38.322758,
+      "lon": 106.393214,
+      "airlines": [
+        {
+          "name": "Air China",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "XiamenAir",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Air China、XiamenAir"
+    },
+    {
+      "iata": "YIW",
+      "icao": "ZSYW",
+      "ourAirportsId": "ZSYW",
+      "cityZh": "義烏",
+      "cityEn": "Yiwu",
+      "cityKey": "Yiwu",
+      "airportName": "Yiwu Airport",
+      "municipality": "Yiwu/Jinhua",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 29.342095,
+      "lon": 120.03116,
+      "airlines": [
+        {
+          "name": "HK Express",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "HK Express"
+    },
+    {
+      "iata": "YCU",
+      "icao": "ZBYC",
+      "ourAirportsId": "ZBYC",
+      "cityZh": "運城",
+      "cityEn": "Yuncheng",
+      "cityKey": "Yuncheng",
+      "airportName": "Yuncheng Yanhu International Airport",
+      "municipality": "Yuncheng (Yanhu)",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 35.117823,
+      "lon": 111.034023,
+      "airlines": [
+        {
+          "name": "Tibet Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Tibet Airlines"
+    },
+    {
+      "iata": "DYG",
+      "icao": "ZGDY",
+      "ourAirportsId": "ZGDY",
+      "cityZh": "張家界",
+      "cityEn": "Zhangjiajie",
+      "cityKey": "Zhangjiajie",
+      "airportName": "Zhangjiajie Hehua International Airport",
+      "municipality": "Zhangjiajie (Yongding)",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 29.104749,
+      "lon": 110.442786,
+      "airlines": [
+        {
+          "name": "Greater Bay Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Greater Bay Airlines"
+    },
+    {
+      "iata": "CGO",
+      "icao": "ZHCC",
+      "ourAirportsId": "ZHCC",
+      "cityZh": "鄭州",
+      "cityEn": "Zhengzhou",
+      "cityKey": "Zhengzhou",
+      "airportName": "Zhengzhou Xinzheng International Airport",
+      "municipality": "Zhengzhou",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 34.526497,
+      "lon": 113.849165,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "iata": "HSN",
+      "icao": "ZSZS",
+      "ourAirportsId": "ZSZS",
+      "cityZh": "舟山",
+      "cityEn": "Zhoushan",
+      "cityKey": "Zhoushan",
+      "airportName": "Zhoushan Putuoshan International Airport",
+      "municipality": "Zhoushan",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 29.933874,
+      "lon": 122.362307,
+      "airlines": [
+        {
+          "name": "Greater Bay Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Greater Bay Airlines"
+    },
+    {
+      "iata": "URC",
+      "icao": "ZWWW",
+      "ourAirportsId": "ZWWW",
+      "cityZh": "烏魯木齊",
+      "cityEn": "Ürümqi",
+      "cityKey": "Ürümqi",
+      "airportName": "Ürümqi Tianshan International Airport",
+      "municipality": "Ürümqi",
+      "country": "CN",
+      "region": "CN",
+      "regionZh": "中國內地",
+      "lat": 43.913584,
+      "lon": 87.479372,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "China Southern Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Greater Bay Airlines",
+          "note": "季節性",
+          "tags": [
+            "季節性"
+          ]
+        },
+        {
+          "name": "Hong Kong Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Urumqi Air",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [
+        "Greater Bay Airlines：季節性"
+      ],
+      "airlinesRaw": "Cathay Pacific、China Southern Airlines、Greater Bay Airlines（季節性）、Hong Kong Airlines、Urumqi Air"
+    },
+    {
+      "iata": "KHH",
+      "icao": "RCKH",
+      "ourAirportsId": "RCKH",
+      "cityZh": "高雄",
+      "cityEn": "Kaohsiung",
+      "cityKey": "Kaohsiung",
+      "airportName": "Kaohsiung International Airport",
+      "municipality": "Kaohsiung (Xiaogang)",
+      "country": "TW",
+      "region": "TW",
+      "regionZh": "台灣／澳門",
+      "lat": 22.577101,
+      "lon": 120.349998,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "China Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "EVA Air",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "HK Express",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Mandarin Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific、China Airlines、EVA Air、HK Express、Mandarin Airlines"
+    },
+    {
+      "iata": "RMQ",
+      "icao": "RCMQ",
+      "ourAirportsId": "RCMQ",
+      "cityZh": "台中",
+      "cityEn": "Taichung",
+      "cityKey": "Taichung",
+      "airportName": "Taichung International Airport / Ching Chuang Kang Air Base",
+      "municipality": "Taichung (Qingshui)",
+      "country": "TW",
+      "region": "TW",
+      "regionZh": "台灣／澳門",
+      "lat": 24.2647,
+      "lon": 120.621002,
+      "airlines": [
+        {
+          "name": "HK Express",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "HK Express"
+    },
+    {
+      "iata": "TPE",
+      "icao": "RCTP",
+      "ourAirportsId": "RCTP",
+      "cityZh": "台北桃園",
+      "cityEn": "Taipei–Taoyuan",
+      "cityKey": "Taipei",
+      "airportName": "Taiwan Taoyuan International Airport",
+      "municipality": "Taoyuan",
+      "country": "TW",
+      "region": "TW",
+      "regionZh": "台灣／澳門",
+      "lat": 25.0777,
+      "lon": 121.233002,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "China Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "EVA Air",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Greater Bay Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "HK Express",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Hong Kong Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Starlux Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific、China Airlines、EVA Air、Greater Bay Airlines、HK Express、Hong Kong Airlines、Starlux Airlines"
+    },
+    {
+      "iata": "FUK",
+      "icao": "RJFF",
+      "ourAirportsId": "RJFF",
+      "cityZh": "福岡",
+      "cityEn": "Fukuoka",
+      "cityKey": "Fukuoka",
+      "airportName": "Fukuoka Airport",
+      "municipality": "Fukuoka",
+      "country": "JP",
+      "region": "JP",
+      "regionZh": "日本",
+      "lat": 33.585899,
+      "lon": 130.451004,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Greater Bay Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "HK Express",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Hong Kong Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific、Greater Bay Airlines、HK Express、Hong Kong Airlines"
+    },
+    {
+      "iata": "HIJ",
+      "icao": "RJOA",
+      "ourAirportsId": "RJOA",
+      "cityZh": "廣島",
+      "cityEn": "Hiroshima",
+      "cityKey": "Hiroshima",
+      "airportName": "Hiroshima Airport",
+      "municipality": "Hiroshima",
+      "country": "JP",
+      "region": "JP",
+      "regionZh": "日本",
+      "lat": 34.4361,
+      "lon": 132.919006,
+      "airlines": [
+        {
+          "name": "HK Express",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "HK Express"
+    },
+    {
+      "iata": "ISG",
+      "icao": "ROIG",
+      "ourAirportsId": "ROIG",
+      "cityZh": "石垣",
+      "cityEn": "Ishigaki",
+      "cityKey": "Ishigaki",
+      "airportName": "New Ishigaki Airport",
+      "municipality": "Ishigaki",
+      "country": "JP",
+      "region": "JP",
+      "regionZh": "日本",
+      "lat": 24.396389,
+      "lon": 124.245,
+      "airlines": [
+        {
+          "name": "HK Express",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "HK Express"
+    },
+    {
+      "iata": "KMQ",
+      "icao": "RJNK",
+      "ourAirportsId": "RJNK",
+      "cityZh": "小松",
+      "cityEn": "Komatsu",
+      "cityKey": "Komatsu",
+      "airportName": "Komatsu Airport / JASDF Komatsu Air Base",
+      "municipality": "Kanazawa",
+      "country": "JP",
+      "region": "JP",
+      "regionZh": "日本",
+      "lat": 36.393407,
+      "lon": 136.406895,
+      "airlines": [
+        {
+          "name": "HK Express",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "HK Express"
+    },
+    {
+      "iata": "NGO",
+      "icao": "RJGG",
+      "ourAirportsId": "RJGG",
+      "cityZh": "名古屋中部",
+      "cityEn": "Nagoya–Centrair",
+      "cityKey": "Nagoya",
+      "airportName": "Chubu Centrair International Airport",
+      "municipality": "Tokoname",
+      "country": "JP",
+      "region": "JP",
+      "regionZh": "日本",
+      "lat": 34.858398,
+      "lon": 136.804993,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "HK Express",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific、HK Express"
+    },
+    {
+      "iata": "OKA",
+      "icao": "ROAH",
+      "ourAirportsId": "ROAH",
+      "cityZh": "沖繩那霸",
+      "cityEn": "Naha",
+      "cityKey": "Naha",
+      "airportName": "Naha International Airport",
+      "municipality": "Naha",
+      "country": "JP",
+      "region": "JP",
+      "regionZh": "日本",
+      "lat": 26.192437,
+      "lon": 127.639804,
+      "airlines": [
+        {
+          "name": "Greater Bay Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "HK Express",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Hong Kong Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Greater Bay Airlines、HK Express、Hong Kong Airlines"
+    },
+    {
+      "iata": "KIX",
+      "icao": "RJBB",
+      "ourAirportsId": "RJBB",
+      "cityZh": "大阪關西",
+      "cityEn": "Osaka–Kansai",
+      "cityKey": "Osaka",
+      "airportName": "Kansai International Airport",
+      "municipality": "Osaka",
+      "country": "JP",
+      "region": "JP",
+      "regionZh": "日本",
+      "lat": 34.427299,
+      "lon": 135.244003,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Greater Bay Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "HK Express",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Hong Kong Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Peach",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific、Greater Bay Airlines、HK Express、Hong Kong Airlines、Peach"
+    },
+    {
+      "iata": "CTS",
+      "icao": "RJCC",
+      "ourAirportsId": "RJCC",
+      "cityZh": "札幌新千歲",
+      "cityEn": "Sapporo–Chitose",
+      "cityKey": "Sapporo",
+      "airportName": "New Chitose Airport",
+      "municipality": "Sapporo",
+      "country": "JP",
+      "region": "JP",
+      "regionZh": "日本",
+      "lat": 42.774753,
+      "lon": 141.690414,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Greater Bay Airlines",
+          "note": "季節性",
+          "tags": [
+            "季節性"
+          ]
+        },
+        {
+          "name": "Hong Kong Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [
+        "Greater Bay Airlines：季節性"
+      ],
+      "airlinesRaw": "Cathay Pacific、Greater Bay Airlines（季節性）、Hong Kong Airlines"
+    },
+    {
+      "iata": "SDJ",
+      "icao": "RJSS",
+      "ourAirportsId": "RJSS",
+      "cityZh": "仙台",
+      "cityEn": "Sendai",
+      "cityKey": "Sendai",
+      "airportName": "Sendai Airport",
+      "municipality": "Natori",
+      "country": "JP",
+      "region": "JP",
+      "regionZh": "日本",
+      "lat": 38.139702,
+      "lon": 140.917007,
+      "airlines": [
+        {
+          "name": "Greater Bay Airlines",
+          "note": "2026-12-17 復航",
+          "tags": [
+            "復航"
+          ]
+        },
+        {
+          "name": "HK Express",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [
+        "Greater Bay Airlines：2026-12-17 復航"
+      ],
+      "airlinesRaw": "Greater Bay Airlines（2026-12-17 復航）、HK Express"
+    },
+    {
+      "iata": "SHI",
+      "icao": "RORS",
+      "ourAirportsId": "RORS",
+      "cityZh": "下地島",
+      "cityEn": "Shimojishima",
+      "cityKey": "Shimojishima",
+      "airportName": "Shimojishima Airport",
+      "municipality": "Miyakojima",
+      "country": "JP",
+      "region": "JP",
+      "regionZh": "日本",
+      "lat": 24.8267,
+      "lon": 125.144997,
+      "airlines": [
+        {
+          "name": "HK Express",
+          "note": "季節性",
+          "tags": [
+            "季節性"
+          ]
+        }
+      ],
+      "notes": [
+        "HK Express：季節性"
+      ],
+      "airlinesRaw": "HK Express（季節性）"
+    },
+    {
+      "iata": "TAK",
+      "icao": "RJOT",
+      "ourAirportsId": "RJOT",
+      "cityZh": "高松",
+      "cityEn": "Takamatsu",
+      "cityKey": "Takamatsu",
+      "airportName": "Takamatsu Airport",
+      "municipality": "Takamatsu",
+      "country": "JP",
+      "region": "JP",
+      "regionZh": "日本",
+      "lat": 34.214963,
+      "lon": 134.015454,
+      "airlines": [
+        {
+          "name": "HK Express",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "HK Express"
+    },
+    {
+      "iata": "HND",
+      "icao": "RJTT",
+      "ourAirportsId": "RJTT",
+      "cityZh": "東京羽田",
+      "cityEn": "Tokyo–Haneda",
+      "cityKey": "Tokyo",
+      "airportName": "Tokyo Haneda International Airport",
+      "municipality": "Tokyo",
+      "country": "JP",
+      "region": "JP",
+      "regionZh": "日本",
+      "lat": 35.549678,
+      "lon": 139.786958,
+      "airlines": [
+        {
+          "name": "All Nippon Airways",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "HK Express",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Japan Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "All Nippon Airways、Cathay Pacific、HK Express、Japan Airlines"
+    },
+    {
+      "iata": "NRT",
+      "icao": "RJAA",
+      "ourAirportsId": "RJAA",
+      "cityZh": "東京成田",
+      "cityEn": "Tokyo–Narita",
+      "cityKey": "Tokyo",
+      "airportName": "Narita International Airport",
+      "municipality": "Narita",
+      "country": "JP",
+      "region": "JP",
+      "regionZh": "日本",
+      "lat": 35.76858,
+      "lon": 140.388714,
+      "airlines": [
+        {
+          "name": "All Nippon Airways",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Greater Bay Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "HK Express",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Hong Kong Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Japan Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Jetstar Japan",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "All Nippon Airways、Cathay Pacific、Greater Bay Airlines、HK Express、Hong Kong Airlines、Japan Airlines、Jetstar Japan"
+    },
+    {
+      "iata": "PUS",
+      "icao": "RKPK",
+      "ourAirportsId": "RKPK",
+      "cityZh": "釜山",
+      "cityEn": "Busan",
+      "cityKey": "Busan",
+      "airportName": "Gimhae International Airport",
+      "municipality": "Busan",
+      "country": "KR",
+      "region": "KR",
+      "regionZh": "韓國",
+      "lat": 35.179501,
+      "lon": 128.938004,
+      "airlines": [
+        {
+          "name": "Air Busan",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Eastar Jet",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "HK Express",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Trinity Airways",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Air Busan、Eastar Jet、HK Express、Trinity Airways"
+    },
+    {
+      "iata": "CJJ",
+      "icao": "RKTU",
+      "ourAirportsId": "RKTU",
+      "cityZh": "清州",
+      "cityEn": "Cheongju",
+      "cityKey": "Cheongju",
+      "airportName": "Cheongju International Airport/Cheongju Air Base (K-59/G-513)",
+      "municipality": "Cheongju",
+      "country": "KR",
+      "region": "KR",
+      "regionZh": "韓國",
+      "lat": 36.71556,
+      "lon": 127.500289,
+      "airlines": [
+        {
+          "name": "HK Express",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "HK Express"
+    },
+    {
+      "iata": "TAE",
+      "icao": "RKTN",
+      "ourAirportsId": "RKTN",
+      "cityZh": "大邱",
+      "cityEn": "Daegu",
+      "cityKey": "Daegu",
+      "airportName": "Daegu International Airport",
+      "municipality": "Daegu",
+      "country": "KR",
+      "region": "KR",
+      "regionZh": "韓國",
+      "lat": 35.894394,
+      "lon": 128.656989,
+      "airlines": [
+        {
+          "name": "HK Express",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "HK Express"
+    },
+    {
+      "iata": "CJU",
+      "icao": "RKPC",
+      "ourAirportsId": "RKPC",
+      "cityZh": "濟州",
+      "cityEn": "Jeju",
+      "cityKey": "Jeju",
+      "airportName": "Jeju International Airport",
+      "municipality": "Jeju City",
+      "country": "KR",
+      "region": "KR",
+      "regionZh": "韓國",
+      "lat": 33.512058,
+      "lon": 126.492548,
+      "airlines": [
+        {
+          "name": "HK Express",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Jin Air",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "HK Express、Jin Air"
+    },
+    {
+      "iata": "ICN",
+      "icao": "RKSI",
+      "ourAirportsId": "RKSI",
+      "cityZh": "首爾仁川",
+      "cityEn": "Seoul–Incheon",
+      "cityKey": "Seoul",
+      "airportName": "Incheon International Airport",
+      "municipality": "Seoul",
+      "country": "KR",
+      "region": "KR",
+      "regionZh": "韓國",
+      "lat": 37.469101,
+      "lon": 126.450996,
+      "airlines": [
+        {
+          "name": "Air Busan",
+          "note": "季節性",
+          "tags": [
+            "季節性"
+          ]
+        },
+        {
+          "name": "Air Premia",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Asiana Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Eastar Jet",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "HK Express",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Hong Kong Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Jeju Air",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Korean Air",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Trinity Airways",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [
+        "Air Busan：季節性"
+      ],
+      "airlinesRaw": "Air Busan（季節性）、Air Premia、Asiana Airlines、Cathay Pacific、Eastar Jet、HK Express、Hong Kong Airlines、Jeju Air、Korean Air、Trinity Airways"
+    },
+    {
+      "iata": "BWN",
+      "icao": "WBSB",
+      "ourAirportsId": "WBSB",
+      "cityZh": "斯里巴加灣",
+      "cityEn": "Bandar Seri Begawan",
+      "cityKey": "Bandar Seri Begawan",
+      "airportName": "Brunei International Airport",
+      "municipality": "Bandar Seri Begawan",
+      "country": "BN",
+      "region": "SEA",
+      "regionZh": "東南亞",
+      "lat": 4.9442,
+      "lon": 114.928001,
+      "airlines": [
+        {
+          "name": "Royal Brunei Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Royal Brunei Airlines"
+    },
+    {
+      "iata": "DMK",
+      "icao": "VTBD",
+      "ourAirportsId": "VTBD",
+      "cityZh": "曼谷廊曼",
+      "cityEn": "Bangkok–Don Mueang",
+      "cityKey": "Bangkok",
+      "airportName": "Don Mueang International Airport",
+      "municipality": "Bangkok",
+      "country": "TH",
+      "region": "SEA",
+      "regionZh": "東南亞",
+      "lat": 13.9126,
+      "lon": 100.607002,
+      "airlines": [
+        {
+          "name": "Thai AirAsia",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Thai Lion Air",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Thai AirAsia、Thai Lion Air"
+    },
+    {
+      "iata": "BKK",
+      "icao": "VTBS",
+      "ourAirportsId": "VTBS",
+      "cityZh": "曼谷素旺那普",
+      "cityEn": "Bangkok–Suvarnabhumi",
+      "cityKey": "Bangkok",
+      "airportName": "Suvarnabhumi Airport",
+      "municipality": "Bangkok",
+      "country": "TH",
+      "region": "SEA",
+      "regionZh": "東南亞",
+      "lat": 13.6811,
+      "lon": 100.747002,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Emirates",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Greater Bay Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "HK Express",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Hong Kong Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Thai Airways International",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "United Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific、Emirates、Greater Bay Airlines、HK Express、Hong Kong Airlines、Thai Airways International、United Airlines"
+    },
+    {
+      "iata": "CEB",
+      "icao": "RPVM",
+      "ourAirportsId": "RPVM",
+      "cityZh": "宿霧",
+      "cityEn": "Cebu",
+      "cityKey": "Cebu",
+      "airportName": "Mactan Cebu International Airport",
+      "municipality": "Cebu City/Lapu-Lapu City",
+      "country": "PH",
+      "region": "SEA",
+      "regionZh": "東南亞",
+      "lat": 10.309261,
+      "lon": 123.97974,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Cebu Pacific",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific、Cebu Pacific"
+    },
+    {
+      "iata": "CNX",
+      "icao": "VTCC",
+      "ourAirportsId": "VTCC",
+      "cityZh": "清邁",
+      "cityEn": "Chiang Mai",
+      "cityKey": "Chiang Mai",
+      "airportName": "Chiang Mai International Airport",
+      "municipality": "Chiang Mai",
+      "country": "TH",
+      "region": "SEA",
+      "regionZh": "東南亞",
+      "lat": 18.7668,
+      "lon": 98.962601,
+      "airlines": [
+        {
+          "name": "HK Express",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "HK Express"
+    },
+    {
+      "iata": "CRK",
+      "icao": "RPLC",
+      "ourAirportsId": "RPLC",
+      "cityZh": "克拉克",
+      "cityEn": "Clark",
+      "cityKey": "Clark",
+      "airportName": "Clark International Airport / Clark Air Base",
+      "municipality": "Mabalacat",
+      "country": "PH",
+      "region": "SEA",
+      "regionZh": "東南亞",
+      "lat": 15.186,
+      "lon": 120.559998,
+      "airlines": [
+        {
+          "name": "Cebu Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "HK Express",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cebu Pacific、HK Express"
+    },
+    {
+      "iata": "DAD",
+      "icao": "VVDN",
+      "ourAirportsId": "VVDN",
+      "cityZh": "峴港",
+      "cityEn": "Da Nang",
+      "cityKey": "Da Nang",
+      "airportName": "Da Nang International Airport",
+      "municipality": "Da Nang",
+      "country": "VN",
+      "region": "SEA",
+      "regionZh": "東南亞",
+      "lat": 16.0439,
+      "lon": 108.198997,
+      "airlines": [
+        {
+          "name": "HK Express",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Hong Kong Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "HK Express、Hong Kong Airlines"
+    },
+    {
+      "iata": "DVO",
+      "icao": "RPMD",
+      "ourAirportsId": "RPMD",
+      "cityZh": "納卯",
+      "cityEn": "Davao",
+      "cityKey": "Davao",
+      "airportName": "Francisco Bangoy International Airport",
+      "municipality": "Davao",
+      "country": "PH",
+      "region": "SEA",
+      "regionZh": "東南亞",
+      "lat": 7.12552,
+      "lon": 125.646004,
+      "airlines": [
+        {
+          "name": "Cebu Pacific",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cebu Pacific"
+    },
+    {
+      "iata": "DPS",
+      "icao": "WADD",
+      "ourAirportsId": "WADD",
+      "cityZh": "峇里",
+      "cityEn": "Denpasar",
+      "cityKey": "Denpasar",
+      "airportName": "Denpasar I Gusti Ngurah Rai International Airport",
+      "municipality": "Kuta, Badung",
+      "country": "ID",
+      "region": "SEA",
+      "regionZh": "東南亞",
+      "lat": -8.748409,
+      "lon": 115.167123,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Hong Kong Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific、Hong Kong Airlines"
+    },
+    {
+      "iata": "HAN",
+      "icao": "VVNB",
+      "ourAirportsId": "VVNB",
+      "cityZh": "河內",
+      "cityEn": "Hanoi",
+      "cityKey": "Hanoi",
+      "airportName": "Noi Bai International Airport",
+      "municipality": "Hanoi (Soc Son)",
+      "country": "VN",
+      "region": "SEA",
+      "regionZh": "東南亞",
+      "lat": 21.221201,
+      "lon": 105.806999,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "HK Express",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Sun PhuQuoc Airways",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Vietnam Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific、HK Express、Sun PhuQuoc Airways、Vietnam Airlines"
+    },
+    {
+      "iata": "SGN",
+      "icao": "VVTS",
+      "ourAirportsId": "VVTS",
+      "cityZh": "胡志明市",
+      "cityEn": "Ho Chi Minh City",
+      "cityKey": "Ho Chi Minh City",
+      "airportName": "Tan Son Nhat International Airport",
+      "municipality": "Ho Chi Minh City",
+      "country": "VN",
+      "region": "SEA",
+      "regionZh": "東南亞",
+      "lat": 10.8188,
+      "lon": 106.652,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "United Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "VietJet Air",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Vietnam Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific、United Airlines、VietJet Air、Vietnam Airlines"
+    },
+    {
+      "iata": "ILO",
+      "icao": "RPVI",
+      "ourAirportsId": "RPVI",
+      "cityZh": "怡朗",
+      "cityEn": "Iloilo",
+      "cityKey": "Iloilo",
+      "airportName": "Iloilo International Airport",
+      "municipality": "Cabatuan",
+      "country": "PH",
+      "region": "SEA",
+      "regionZh": "東南亞",
+      "lat": 10.833017,
+      "lon": 122.493358,
+      "airlines": [
+        {
+          "name": "Cebu Pacific",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cebu Pacific"
+    },
+    {
+      "iata": "CGK",
+      "icao": "WIII",
+      "ourAirportsId": "WIII",
+      "cityZh": "雅加達",
+      "cityEn": "Jakarta–Soekarno-Hatta",
+      "cityKey": "Jakarta",
+      "airportName": "Soekarno-Hatta International Airport",
+      "municipality": "Jakarta",
+      "country": "ID",
+      "region": "SEA",
+      "regionZh": "東南亞",
+      "lat": -6.12557,
+      "lon": 106.655998,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Garuda Indonesia",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific、Garuda Indonesia"
+    },
+    {
+      "iata": "USM",
+      "icao": "VTSM",
+      "ourAirportsId": "VTSM",
+      "cityZh": "蘇梅島",
+      "cityEn": "Koh Samui",
+      "cityKey": "Koh Samui",
+      "airportName": "Samui International Airport",
+      "municipality": "Na Thon (Ko Samui Island)",
+      "country": "TH",
+      "region": "SEA",
+      "regionZh": "東南亞",
+      "lat": 9.54779,
+      "lon": 100.061996,
+      "airlines": [
+        {
+          "name": "Bangkok Airways",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Bangkok Airways"
+    },
+    {
+      "iata": "BKI",
+      "icao": "WBKK",
+      "ourAirportsId": "WBKK",
+      "cityZh": "亞庇",
+      "cityEn": "Kota Kinabalu",
+      "cityKey": "Kota Kinabalu",
+      "airportName": "Kota Kinabalu International Airport",
+      "municipality": "Kota Kinabalu",
+      "country": "MY",
+      "region": "SEA",
+      "regionZh": "東南亞",
+      "lat": 5.932743,
+      "lon": 116.049324,
+      "airlines": [
+        {
+          "name": "AirAsia",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "HK Express",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "AirAsia、HK Express"
+    },
+    {
+      "iata": "KUL",
+      "icao": "WMKK",
+      "ourAirportsId": "WMKK",
+      "cityZh": "吉隆坡",
+      "cityEn": "Kuala Lumpur",
+      "cityKey": "Kuala Lumpur",
+      "airportName": "Kuala Lumpur International Airport",
+      "municipality": "Sepang",
+      "country": "MY",
+      "region": "SEA",
+      "regionZh": "東南亞",
+      "lat": 2.74558,
+      "lon": 101.709999,
+      "airlines": [
+        {
+          "name": "AirAsia",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Batik Air Malaysia",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Greater Bay Airlines",
+          "note": "季節性",
+          "tags": [
+            "季節性"
+          ]
+        },
+        {
+          "name": "Malaysia Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [
+        "Greater Bay Airlines：季節性"
+      ],
+      "airlinesRaw": "AirAsia、Batik Air Malaysia、Cathay Pacific、Greater Bay Airlines（季節性）、Malaysia Airlines"
+    },
+    {
+      "iata": "SZB",
+      "icao": "WMSA",
+      "ourAirportsId": "WMSA",
+      "cityZh": "吉隆坡梳邦",
+      "cityEn": "Kuala Lumpur–Subang",
+      "cityKey": "Kuala Lumpur",
+      "airportName": "Sultan Abdul Aziz Shah International Airport",
+      "municipality": "Subang",
+      "country": "MY",
+      "region": "SEA",
+      "regionZh": "東南亞",
+      "lat": 3.13058,
+      "lon": 101.549004,
+      "airlines": [
+        {
+          "name": "HK Express",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "HK Express"
+    },
+    {
+      "iata": "MNL",
+      "icao": "RPLL",
+      "ourAirportsId": "RPLL",
+      "cityZh": "馬尼拉",
+      "cityEn": "Manila",
+      "cityKey": "Manila",
+      "airportName": "Ninoy Aquino International Airport",
+      "municipality": "Manila (Pasay)",
+      "country": "PH",
+      "region": "SEA",
+      "regionZh": "東南亞",
+      "lat": 14.5086,
+      "lon": 121.019997,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Cebu Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Greater Bay Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "HK Express",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Philippine Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific、Cebu Pacific、Greater Bay Airlines、HK Express、Philippine Airlines"
+    },
+    {
+      "iata": "CXR",
+      "icao": "VVCR",
+      "ourAirportsId": "VVCR",
+      "cityZh": "芽莊",
+      "cityEn": "Nha Trang",
+      "cityKey": "Nha Trang",
+      "airportName": "Cam Ranh International Airport / Cam Ranh Air Base",
+      "municipality": "Nha Trang/nha Trang aiurportCam Ranh",
+      "country": "VN",
+      "region": "SEA",
+      "regionZh": "東南亞",
+      "lat": 11.9982,
+      "lon": 109.219002,
+      "airlines": [
+        {
+          "name": "HK Express",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "HK Express"
+    },
+    {
+      "iata": "PEN",
+      "icao": "WMKP",
+      "ourAirportsId": "WMKP",
+      "cityZh": "檳城",
+      "cityEn": "Penang",
+      "cityKey": "Penang",
+      "airportName": "Penang International Airport",
+      "municipality": "Penang",
+      "country": "MY",
+      "region": "SEA",
+      "regionZh": "東南亞",
+      "lat": 5.296303,
+      "lon": 100.276185,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "HK Express",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific、HK Express"
+    },
+    {
+      "iata": "KTI",
+      "icao": "VDTI",
+      "ourAirportsId": "KH-0002",
+      "cityZh": "金邊",
+      "cityEn": "Phnom Penh",
+      "cityKey": "Phnom Penh",
+      "airportName": "Techo International Airport",
+      "municipality": "Phnom Penh (Boeng Khyang)",
+      "country": "KH",
+      "region": "SEA",
+      "regionZh": "東南亞",
+      "lat": 11.359987,
+      "lon": 104.921272,
+      "airlines": [
+        {
+          "name": "Air Cambodia",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Cambodia Airways",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Air Cambodia、Cambodia Airways、Cathay Pacific"
+    },
+    {
+      "iata": "PQC",
+      "icao": "VVPQ",
+      "ourAirportsId": "VVPQ",
+      "cityZh": "富國島",
+      "cityEn": "Phu Quoc",
+      "cityKey": "Phu Quoc",
+      "airportName": "Phú Quốc International Airport",
+      "municipality": "Phu Quoc Island",
+      "country": "VN",
+      "region": "SEA",
+      "regionZh": "東南亞",
+      "lat": 10.169783,
+      "lon": 103.99353,
+      "airlines": [
+        {
+          "name": "Greater Bay Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "HK Express",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Sun PhuQuoc Airways",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "VietJet Air",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Greater Bay Airlines、HK Express、Sun PhuQuoc Airways、VietJet Air"
+    },
+    {
+      "iata": "HKT",
+      "icao": "VTSP",
+      "ourAirportsId": "VTSP",
+      "cityZh": "布吉",
+      "cityEn": "Phuket",
+      "cityKey": "Phuket",
+      "airportName": "Phuket International Airport",
+      "municipality": "Phuket",
+      "country": "TH",
+      "region": "SEA",
+      "regionZh": "東南亞",
+      "lat": 8.113257,
+      "lon": 98.3174,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "HK Express",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific、HK Express"
+    },
+    {
+      "iata": "SIN",
+      "icao": "WSSS",
+      "ourAirportsId": "WSSS",
+      "cityZh": "新加坡",
+      "cityEn": "Singapore",
+      "cityKey": "Singapore",
+      "airportName": "Singapore Changi Airport",
+      "municipality": "Singapore",
+      "country": "SG",
+      "region": "SEA",
+      "regionZh": "東南亞",
+      "lat": 1.35019,
+      "lon": 103.994003,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Scoot",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Singapore Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific、Scoot、Singapore Airlines"
+    },
+    {
+      "iata": "SUB",
+      "icao": "WARR",
+      "ourAirportsId": "WARR",
+      "cityZh": "泗水",
+      "cityEn": "Surabaya",
+      "cityKey": "Surabaya",
+      "airportName": "Juanda International Airport",
+      "municipality": "Surabaya",
+      "country": "ID",
+      "region": "SEA",
+      "regionZh": "東南亞",
+      "lat": -7.37983,
+      "lon": 112.787003,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Greater Bay Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific、Greater Bay Airlines"
+    },
+    {
+      "iata": "TWU",
+      "icao": "WBKW",
+      "ourAirportsId": "WBKW",
+      "cityZh": "斗湖",
+      "cityEn": "Tawau",
+      "cityKey": "Tawau",
+      "airportName": "Tawau Airport",
+      "municipality": "Tawau",
+      "country": "MY",
+      "region": "SEA",
+      "regionZh": "東南亞",
+      "lat": 4.31338,
+      "lon": 118.12152,
+      "airlines": [
+        {
+          "name": "Greater Bay Airlines",
+          "note": "季節性",
+          "tags": [
+            "季節性"
+          ]
+        }
+      ],
+      "notes": [
+        "Greater Bay Airlines：季節性"
+      ],
+      "airlinesRaw": "Greater Bay Airlines（季節性）"
+    },
+    {
+      "iata": "VTE",
+      "icao": "VLVT",
+      "ourAirportsId": "VLVT",
+      "cityZh": "永珍",
+      "cityEn": "Vientiane",
+      "cityKey": "Vientiane",
+      "airportName": "Wattay International Airport",
+      "municipality": "Vientiane",
+      "country": "LA",
+      "region": "SEA",
+      "regionZh": "東南亞",
+      "lat": 17.985052,
+      "lon": 102.566692,
+      "airlines": [
+        {
+          "name": "Hong Kong Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Hong Kong Airlines"
+    },
+    {
+      "iata": "BLR",
+      "icao": "VOBL",
+      "ourAirportsId": "VOBL",
+      "cityZh": "班加羅爾",
+      "cityEn": "Bengaluru",
+      "cityKey": "Bengaluru",
+      "airportName": "Kempegowda International Airport Bengaluru",
+      "municipality": "Bengaluru",
+      "country": "IN",
+      "region": "SA",
+      "regionZh": "南亞",
+      "lat": 13.1979,
+      "lon": 77.706299,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "iata": "MAA",
+      "icao": "VOMM",
+      "ourAirportsId": "VOMM",
+      "cityZh": "清奈",
+      "cityEn": "Chennai",
+      "cityKey": "Chennai",
+      "airportName": "Chennai International Airport",
+      "municipality": "Chennai",
+      "country": "IN",
+      "region": "SA",
+      "regionZh": "南亞",
+      "lat": 12.990005,
+      "lon": 80.169296,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "iata": "CMB",
+      "icao": "VCBI",
+      "ourAirportsId": "VCBI",
+      "cityZh": "科倫坡",
+      "cityEn": "Colombo–Bandaranaike",
+      "cityKey": "Colombo",
+      "airportName": "Bandaranaike International Colombo Airport",
+      "municipality": "Colombo",
+      "country": "LK",
+      "region": "SA",
+      "regionZh": "南亞",
+      "lat": 7.18076,
+      "lon": 79.884102,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "iata": "DEL",
+      "icao": "VIDP",
+      "ourAirportsId": "VIDP",
+      "cityZh": "德里",
+      "cityEn": "Delhi–Indira Gandhi",
+      "cityKey": "Delhi",
+      "airportName": "Indira Gandhi International Airport",
+      "municipality": "New Delhi",
+      "country": "IN",
+      "region": "SA",
+      "regionZh": "南亞",
+      "lat": 28.55563,
+      "lon": 77.09519,
+      "airlines": [
+        {
+          "name": "Air India",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "IndiGo",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Air India、Cathay Pacific、IndiGo"
+    },
+    {
+      "iata": "DAC",
+      "icao": "VGHS",
+      "ourAirportsId": "VGHS",
+      "cityZh": "達卡",
+      "cityEn": "Dhaka",
+      "cityKey": "Dhaka",
+      "airportName": "Hazrat Shahjalal International Airport",
+      "municipality": "Dhaka",
+      "country": "BD",
+      "region": "SA",
+      "regionZh": "南亞",
+      "lat": 23.843347,
+      "lon": 90.397783,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "iata": "HYD",
+      "icao": "VOHS",
+      "ourAirportsId": "VOHS",
+      "cityZh": "海德拉巴",
+      "cityEn": "Hyderabad",
+      "cityKey": "Hyderabad",
+      "airportName": "Rajiv Gandhi International Airport",
+      "municipality": "Hyderabad",
+      "country": "IN",
+      "region": "SA",
+      "regionZh": "南亞",
+      "lat": 17.231318,
+      "lon": 78.429855,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "iata": "KTM",
+      "icao": "VNKT",
+      "ourAirportsId": "VNKT",
+      "cityZh": "加德滿都",
+      "cityEn": "Kathmandu",
+      "cityKey": "Kathmandu",
+      "airportName": "Tribhuvan International Airport",
+      "municipality": "Kathmandu",
+      "country": "NP",
+      "region": "SA",
+      "regionZh": "南亞",
+      "lat": 27.6966,
+      "lon": 85.3591,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Nepal Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific、Nepal Airlines"
+    },
+    {
+      "iata": "MLE",
+      "icao": "VRMM",
+      "ourAirportsId": "VRMM",
+      "cityZh": "馬累",
+      "cityEn": "Malé",
+      "cityKey": "Malé",
+      "airportName": "Velana International Airport",
+      "municipality": "Malé",
+      "country": "MV",
+      "region": "SA",
+      "regionZh": "南亞",
+      "lat": 4.19183,
+      "lon": 73.529099,
+      "airlines": [
+        {
+          "name": "Greater Bay Airlines",
+          "note": "季節性",
+          "tags": [
+            "季節性"
+          ]
+        },
+        {
+          "name": "Hong Kong Airlines",
+          "note": "季節性",
+          "tags": [
+            "季節性"
+          ]
+        }
+      ],
+      "notes": [
+        "Greater Bay Airlines：季節性",
+        "Hong Kong Airlines：季節性"
+      ],
+      "airlinesRaw": "Greater Bay Airlines（季節性）、Hong Kong Airlines（季節性）"
+    },
+    {
+      "iata": "BOM",
+      "icao": "VABB",
+      "ourAirportsId": "VABB",
+      "cityZh": "孟買",
+      "cityEn": "Mumbai–Shivaji",
+      "cityKey": "Mumbai",
+      "airportName": "Chhatrapati Shivaji Maharaj International Airport",
+      "municipality": "Mumbai",
+      "country": "IN",
+      "region": "SA",
+      "regionZh": "南亞",
+      "lat": 19.088699,
+      "lon": 72.867897,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "iata": "AUH",
+      "icao": "OMAA",
+      "ourAirportsId": "OMAA",
+      "cityZh": "阿布扎比",
+      "cityEn": "Abu Dhabi",
+      "cityKey": "Abu Dhabi",
+      "airportName": "Zayed International Airport",
+      "municipality": "Abu Dhabi",
+      "country": "AE",
+      "region": "ME",
+      "regionZh": "中東",
+      "lat": 24.440966,
+      "lon": 54.649237,
+      "airlines": [
+        {
+          "name": "Etihad Airways",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Etihad Airways"
+    },
+    {
+      "iata": "DOH",
+      "icao": "OTHH",
+      "ourAirportsId": "OTHH",
+      "cityZh": "多哈",
+      "cityEn": "Doha",
+      "cityKey": "Doha",
+      "airportName": "Hamad International Airport",
+      "municipality": "Doha",
+      "country": "QA",
+      "region": "ME",
+      "regionZh": "中東",
+      "lat": 25.273056,
+      "lon": 51.608056,
+      "airlines": [
+        {
+          "name": "Qatar Airways",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Qatar Airways"
+    },
+    {
+      "iata": "DXB",
+      "icao": "OMDB",
+      "ourAirportsId": "OMDB",
+      "cityZh": "杜拜",
+      "cityEn": "Dubai–International",
+      "cityKey": "Dubai",
+      "airportName": "Dubai International Airport",
+      "municipality": "Dubai",
+      "country": "AE",
+      "region": "ME",
+      "regionZh": "中東",
+      "lat": 25.24979,
+      "lon": 55.370992,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": "暫停，2027-01-31 復航",
+          "tags": [
+            "暫停",
+            "復航"
+          ]
+        },
+        {
+          "name": "Emirates",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [
+        "Cathay Pacific：暫停，2027-01-31 復航"
+      ],
+      "airlinesRaw": "Cathay Pacific（暫停，2027-01-31 復航）、Emirates"
+    },
+    {
+      "iata": "IST",
+      "icao": "LTFM",
+      "ourAirportsId": "LTFM",
+      "cityZh": "伊斯坦堡",
+      "cityEn": "Istanbul",
+      "cityKey": "Istanbul",
+      "airportName": "İstanbul Airport",
+      "municipality": "Istanbul",
+      "country": "TR",
+      "region": "ME",
+      "regionZh": "中東",
+      "lat": 41.274874,
+      "lon": 28.732136,
+      "airlines": [
+        {
+          "name": "Turkish Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Turkish Airlines"
+    },
+    {
+      "iata": "RUH",
+      "icao": "OERK",
+      "ourAirportsId": "OERK",
+      "cityZh": "利雅得",
+      "cityEn": "Riyadh",
+      "cityKey": "Riyadh",
+      "airportName": "King Khalid International Airport",
+      "municipality": "Riyadh",
+      "country": "SA",
+      "region": "ME",
+      "regionZh": "中東",
+      "lat": 24.9576,
+      "lon": 46.698799,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": "暫停，2027-01-31 復航",
+          "tags": [
+            "暫停",
+            "復航"
+          ]
+        }
+      ],
+      "notes": [
+        "Cathay Pacific：暫停，2027-01-31 復航"
+      ],
+      "airlinesRaw": "Cathay Pacific（暫停，2027-01-31 復航）"
+    },
+    {
+      "iata": "AMS",
+      "icao": "EHAM",
+      "ourAirportsId": "EHAM",
+      "cityZh": "阿姆斯特丹",
+      "cityEn": "Amsterdam",
+      "cityKey": "Amsterdam",
+      "airportName": "Amsterdam Airport Schiphol",
+      "municipality": "Amsterdam",
+      "country": "NL",
+      "region": "EU",
+      "regionZh": "歐洲",
+      "lat": 52.308601,
+      "lon": 4.76389,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "KLM",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific、KLM"
+    },
+    {
+      "iata": "BCN",
+      "icao": "LEBL",
+      "ourAirportsId": "LEBL",
+      "cityZh": "巴塞隆拿",
+      "cityEn": "Barcelona",
+      "cityKey": "Barcelona",
+      "airportName": "Josep Tarradellas Barcelona-El Prat Airport",
+      "municipality": "Barcelona",
+      "country": "ES",
+      "region": "EU",
+      "regionZh": "歐洲",
+      "lat": 41.2971,
+      "lon": 2.07846,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": "季節性",
+          "tags": [
+            "季節性"
+          ]
+        }
+      ],
+      "notes": [
+        "Cathay Pacific：季節性"
+      ],
+      "airlinesRaw": "Cathay Pacific（季節性）"
+    },
+    {
+      "iata": "BRU",
+      "icao": "EBBR",
+      "ourAirportsId": "EBBR",
+      "cityZh": "布魯塞爾",
+      "cityEn": "Brussels",
+      "cityKey": "Brussels",
+      "airportName": "Brussels Airport",
+      "municipality": "Zaventem",
+      "country": "BE",
+      "region": "EU",
+      "regionZh": "歐洲",
+      "lat": 50.901402,
+      "lon": 4.48444,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "iata": "FRA",
+      "icao": "EDDF",
+      "ourAirportsId": "EDDF",
+      "cityZh": "法蘭克福",
+      "cityEn": "Frankfurt",
+      "cityKey": "Frankfurt",
+      "airportName": "Frankfurt Main Airport",
+      "municipality": "Frankfurt am Main",
+      "country": "DE",
+      "region": "EU",
+      "regionZh": "歐洲",
+      "lat": 50.026706,
+      "lon": 8.55835,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Lufthansa",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific、Lufthansa"
+    },
+    {
+      "iata": "HEL",
+      "icao": "EFHK",
+      "ourAirportsId": "EFHK",
+      "cityZh": "赫爾辛基",
+      "cityEn": "Helsinki",
+      "cityKey": "Helsinki",
+      "airportName": "Helsinki Vantaa Airport",
+      "municipality": "Helsinki (Vantaa)",
+      "country": "FI",
+      "region": "EU",
+      "regionZh": "歐洲",
+      "lat": 60.318363,
+      "lon": 24.963341,
+      "airlines": [
+        {
+          "name": "Finnair",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Finnair"
+    },
+    {
+      "iata": "LHR",
+      "icao": "EGLL",
+      "ourAirportsId": "EGLL",
+      "cityZh": "倫敦希斯路",
+      "cityEn": "London–Heathrow",
+      "cityKey": "London",
+      "airportName": "London Heathrow Airport",
+      "municipality": "London",
+      "country": "GB",
+      "region": "EU",
+      "regionZh": "歐洲",
+      "lat": 51.470748,
+      "lon": -0.459909,
+      "airlines": [
+        {
+          "name": "British Airways",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "British Airways、Cathay Pacific"
+    },
+    {
+      "iata": "MAD",
+      "icao": "LEMD",
+      "ourAirportsId": "LEMD",
+      "cityZh": "馬德里",
+      "cityEn": "Madrid",
+      "cityKey": "Madrid",
+      "airportName": "Adolfo Suárez Madrid–Barajas Airport",
+      "municipality": "Madrid",
+      "country": "ES",
+      "region": "EU",
+      "regionZh": "歐洲",
+      "lat": 40.493407,
+      "lon": -3.572249,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "iata": "MAN",
+      "icao": "EGCC",
+      "ourAirportsId": "EGCC",
+      "cityZh": "曼徹斯特",
+      "cityEn": "Manchester",
+      "cityKey": "Manchester",
+      "airportName": "Manchester Airport",
+      "municipality": "Manchester, Greater Manchester",
+      "country": "GB",
+      "region": "EU",
+      "regionZh": "歐洲",
+      "lat": 53.349375,
+      "lon": -2.279521,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "iata": "MXP",
+      "icao": "LIMC",
+      "ourAirportsId": "LIMC",
+      "cityZh": "米蘭",
+      "cityEn": "Milan–Malpensa",
+      "cityKey": "Milan",
+      "airportName": "Milan Malpensa International Airport",
+      "municipality": "Ferno (VA)",
+      "country": "IT",
+      "region": "EU",
+      "regionZh": "歐洲",
+      "lat": 45.6306,
+      "lon": 8.72811,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "iata": "SVO",
+      "icao": "UUEE",
+      "ourAirportsId": "UUEE",
+      "cityZh": "莫斯科",
+      "cityEn": "Moscow–Sheremetyevo",
+      "cityKey": "Moscow",
+      "airportName": "Sheremetyevo International Airport",
+      "municipality": "Moscow",
+      "country": "RU",
+      "region": "EU",
+      "regionZh": "歐洲",
+      "lat": 55.977486,
+      "lon": 37.386677,
+      "airlines": [
+        {
+          "name": "Aeroflot",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Aeroflot"
+    },
+    {
+      "iata": "MUC",
+      "icao": "EDDM",
+      "ourAirportsId": "EDDM",
+      "cityZh": "慕尼黑",
+      "cityEn": "Munich",
+      "cityKey": "Munich",
+      "airportName": "Munich Airport",
+      "municipality": "Munich",
+      "country": "DE",
+      "region": "EU",
+      "regionZh": "歐洲",
+      "lat": 48.353802,
+      "lon": 11.7861,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "iata": "CDG",
+      "icao": "LFPG",
+      "ourAirportsId": "LFPG",
+      "cityZh": "巴黎",
+      "cityEn": "Paris–Charles de Gaulle",
+      "cityKey": "Paris",
+      "airportName": "Charles de Gaulle International Airport",
+      "municipality": "Paris (Roissy-en-France, Val-d'Oise)",
+      "country": "FR",
+      "region": "EU",
+      "regionZh": "歐洲",
+      "lat": 49.00896,
+      "lon": 2.554117,
+      "airlines": [
+        {
+          "name": "Air France",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Air France、Cathay Pacific"
+    },
+    {
+      "iata": "FCO",
+      "icao": "LIRF",
+      "ourAirportsId": "LIRF",
+      "cityZh": "羅馬",
+      "cityEn": "Rome–Fiumicino",
+      "cityKey": "Rome",
+      "airportName": "Rome–Fiumicino Leonardo da Vinci International Airport",
+      "municipality": "Rome",
+      "country": "IT",
+      "region": "EU",
+      "regionZh": "歐洲",
+      "lat": 41.804532,
+      "lon": 12.251998,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": "季節性",
+          "tags": [
+            "季節性"
+          ]
+        }
+      ],
+      "notes": [
+        "Cathay Pacific：季節性"
+      ],
+      "airlinesRaw": "Cathay Pacific（季節性）"
+    },
+    {
+      "iata": "ZRH",
+      "icao": "LSZH",
+      "ourAirportsId": "LSZH",
+      "cityZh": "蘇黎世",
+      "cityEn": "Zurich",
+      "cityKey": "Zurich",
+      "airportName": "Zürich Airport",
+      "municipality": "Zurich",
+      "country": "CH",
+      "region": "EU",
+      "regionZh": "歐洲",
+      "lat": 47.458056,
+      "lon": 8.548056,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "iata": "BOS",
+      "icao": "KBOS",
+      "ourAirportsId": "KBOS",
+      "cityZh": "波士頓",
+      "cityEn": "Boston",
+      "cityKey": "Boston",
+      "airportName": "Boston Logan International Airport",
+      "municipality": "Boston",
+      "country": "US",
+      "region": "NA",
+      "regionZh": "北美",
+      "lat": 42.36197,
+      "lon": -71.0079,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "iata": "ORD",
+      "icao": "KORD",
+      "ourAirportsId": "KORD",
+      "cityZh": "芝加哥",
+      "cityEn": "Chicago–O'Hare",
+      "cityKey": "Chicago",
+      "airportName": "Chicago O'Hare International Airport",
+      "municipality": "Chicago",
+      "country": "US",
+      "region": "NA",
+      "regionZh": "北美",
+      "lat": 41.9786,
+      "lon": -87.9048,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "iata": "DFW",
+      "icao": "KDFW",
+      "ourAirportsId": "KDFW",
+      "cityZh": "達拉斯",
+      "cityEn": "Dallas/Fort Worth",
+      "cityKey": "Dallas/Fort Worth",
+      "airportName": "Dallas Fort Worth International Airport",
+      "municipality": "Dallas-Fort Worth",
+      "country": "US",
+      "region": "NA",
+      "regionZh": "北美",
+      "lat": 32.896801,
+      "lon": -97.038002,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "iata": "LAX",
+      "icao": "KLAX",
+      "ourAirportsId": "KLAX",
+      "cityZh": "洛杉磯",
+      "cityEn": "Los Angeles",
+      "cityKey": "Los Angeles",
+      "airportName": "Los Angeles International Airport",
+      "municipality": "Los Angeles",
+      "country": "US",
+      "region": "NA",
+      "regionZh": "北美",
+      "lat": 33.942501,
+      "lon": -118.407997,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Delta Air Lines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "United Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific、Delta Air Lines、United Airlines"
+    },
+    {
+      "iata": "JFK",
+      "icao": "KJFK",
+      "ourAirportsId": "KJFK",
+      "cityZh": "紐約",
+      "cityEn": "New York–JFK",
+      "cityKey": "New York",
+      "airportName": "John F. Kennedy International Airport",
+      "municipality": "New York",
+      "country": "US",
+      "region": "NA",
+      "regionZh": "北美",
+      "lat": 40.639447,
+      "lon": -73.779317,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "iata": "SFO",
+      "icao": "KSFO",
+      "ourAirportsId": "KSFO",
+      "cityZh": "三藩市",
+      "cityEn": "San Francisco",
+      "cityKey": "San Francisco",
+      "airportName": "San Francisco International Airport",
+      "municipality": "San Francisco",
+      "country": "US",
+      "region": "NA",
+      "regionZh": "北美",
+      "lat": 37.619806,
+      "lon": -122.374821,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "United Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific、United Airlines"
+    },
+    {
+      "iata": "SEA",
+      "icao": "KSEA",
+      "ourAirportsId": "KSEA",
+      "cityZh": "西雅圖",
+      "cityEn": "Seattle/Tacoma",
+      "cityKey": "Seattle/Tacoma",
+      "airportName": "Seattle–Tacoma International Airport",
+      "municipality": "Seattle",
+      "country": "US",
+      "region": "NA",
+      "regionZh": "北美",
+      "lat": 47.447943,
+      "lon": -122.310276,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "iata": "YYZ",
+      "icao": "CYYZ",
+      "ourAirportsId": "CYYZ",
+      "cityZh": "多倫多",
+      "cityEn": "Toronto–Pearson",
+      "cityKey": "Toronto",
+      "airportName": "Toronto Pearson International Airport",
+      "municipality": "Toronto",
+      "country": "CA",
+      "region": "NA",
+      "regionZh": "北美",
+      "lat": 43.675935,
+      "lon": -79.629421,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "iata": "YVR",
+      "icao": "CYVR",
+      "ourAirportsId": "CYVR",
+      "cityZh": "溫哥華",
+      "cityEn": "Vancouver",
+      "cityKey": "Vancouver",
+      "airportName": "Vancouver International Airport",
+      "municipality": "Vancouver",
+      "country": "CA",
+      "region": "NA",
+      "regionZh": "北美",
+      "lat": 49.193901,
+      "lon": -123.183998,
+      "airlines": [
+        {
+          "name": "Air Canada",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Hong Kong Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Air Canada、Cathay Pacific、Hong Kong Airlines"
+    },
+    {
+      "iata": "ADL",
+      "icao": "YPAD",
+      "ourAirportsId": "YPAD",
+      "cityZh": "阿德萊德",
+      "cityEn": "Adelaide",
+      "cityKey": "Adelaide",
+      "airportName": "Adelaide International Airport",
+      "municipality": "Adelaide",
+      "country": "AU",
+      "region": "OC",
+      "regionZh": "大洋洲",
+      "lat": -34.947512,
+      "lon": 138.533393,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": "季節性",
+          "tags": [
+            "季節性"
+          ]
+        }
+      ],
+      "notes": [
+        "Cathay Pacific：季節性"
+      ],
+      "airlinesRaw": "Cathay Pacific（季節性）"
+    },
+    {
+      "iata": "AKL",
+      "icao": "NZAA",
+      "ourAirportsId": "NZAA",
+      "cityZh": "奧克蘭",
+      "cityEn": "Auckland",
+      "cityKey": "Auckland",
+      "airportName": "Auckland International Airport",
+      "municipality": "Auckland",
+      "country": "NZ",
+      "region": "OC",
+      "regionZh": "大洋洲",
+      "lat": -37.01199,
+      "lon": 174.786331,
+      "airlines": [
+        {
+          "name": "Air New Zealand",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Air New Zealand、Cathay Pacific"
+    },
+    {
+      "iata": "BNE",
+      "icao": "YBBN",
+      "ourAirportsId": "YBBN",
+      "cityZh": "布里斯本",
+      "cityEn": "Brisbane",
+      "cityKey": "Brisbane",
+      "airportName": "Brisbane International Airport",
+      "municipality": "Brisbane",
+      "country": "AU",
+      "region": "OC",
+      "regionZh": "大洋洲",
+      "lat": -27.384199,
+      "lon": 153.117004,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "iata": "CHC",
+      "icao": "NZCH",
+      "ourAirportsId": "NZCH",
+      "cityZh": "基督城",
+      "cityEn": "Christchurch",
+      "cityKey": "Christchurch",
+      "airportName": "Christchurch International Airport",
+      "municipality": "Christchurch",
+      "country": "NZ",
+      "region": "OC",
+      "regionZh": "大洋洲",
+      "lat": -43.489029,
+      "lon": 172.532065,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": "季節性",
+          "tags": [
+            "季節性"
+          ]
+        }
+      ],
+      "notes": [
+        "Cathay Pacific：季節性"
+      ],
+      "airlinesRaw": "Cathay Pacific（季節性）"
+    },
+    {
+      "iata": "ROR",
+      "icao": "PTRO",
+      "ourAirportsId": "PTRO",
+      "cityZh": "帛琉科羅爾",
+      "cityEn": "Koror",
+      "cityKey": "Koror",
+      "airportName": "Roman Tmetuchl International Airport",
+      "municipality": "Babelthuap Island",
+      "country": "PW",
+      "region": "OC",
+      "regionZh": "大洋洲",
+      "lat": 7.366965,
+      "lon": 134.544085,
+      "airlines": [
+        {
+          "name": "Greater Bay Airlines",
+          "note": "季節性",
+          "tags": [
+            "季節性"
+          ]
+        },
+        {
+          "name": "Hong Kong Airlines",
+          "note": "季節性",
+          "tags": [
+            "季節性"
+          ]
+        }
+      ],
+      "notes": [
+        "Greater Bay Airlines：季節性",
+        "Hong Kong Airlines：季節性"
+      ],
+      "airlinesRaw": "Greater Bay Airlines（季節性）、Hong Kong Airlines（季節性）"
+    },
+    {
+      "iata": "MEL",
+      "icao": "YMML",
+      "ourAirportsId": "YMML",
+      "cityZh": "墨爾本",
+      "cityEn": "Melbourne",
+      "cityKey": "Melbourne",
+      "airportName": "Melbourne Airport",
+      "municipality": "Melbourne",
+      "country": "AU",
+      "region": "OC",
+      "regionZh": "大洋洲",
+      "lat": -37.670732,
+      "lon": 144.837898,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Hong Kong Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Qantas",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific、Hong Kong Airlines、Qantas"
+    },
+    {
+      "iata": "NAN",
+      "icao": "NFFN",
+      "ourAirportsId": "NFFN",
+      "cityZh": "楠迪",
+      "cityEn": "Nadi",
+      "cityKey": "Nadi",
+      "airportName": "Nadi International Airport",
+      "municipality": "Nadi",
+      "country": "FJ",
+      "region": "OC",
+      "regionZh": "大洋洲",
+      "lat": -17.761822,
+      "lon": 177.437843,
+      "airlines": [
+        {
+          "name": "Fiji Airways",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Fiji Airways"
+    },
+    {
+      "iata": "PER",
+      "icao": "YPPH",
+      "ourAirportsId": "YPPH",
+      "cityZh": "珀斯",
+      "cityEn": "Perth",
+      "cityKey": "Perth",
+      "airportName": "Perth International Airport",
+      "municipality": "Perth",
+      "country": "AU",
+      "region": "OC",
+      "regionZh": "大洋洲",
+      "lat": -31.9403,
+      "lon": 115.967003,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "iata": "POM",
+      "icao": "AYPY",
+      "ourAirportsId": "AYPY",
+      "cityZh": "莫士比港",
+      "cityEn": "Port Moresby",
+      "cityKey": "Port Moresby",
+      "airportName": "Port Moresby Jacksons International Airport",
+      "municipality": "Port Moresby",
+      "country": "PG",
+      "region": "OC",
+      "regionZh": "大洋洲",
+      "lat": -9.44338,
+      "lon": 147.220001,
+      "airlines": [
+        {
+          "name": "Air Niugini",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Air Niugini"
+    },
+    {
+      "iata": "SPN",
+      "icao": "PGSN",
+      "ourAirportsId": "PGSN",
+      "cityZh": "塞班",
+      "cityEn": "Saipan",
+      "cityKey": "Saipan",
+      "airportName": "Saipan International Airport",
+      "municipality": "I Fadang, Saipan",
+      "country": "MP",
+      "region": "OC",
+      "regionZh": "大洋洲",
+      "lat": 15.119384,
+      "lon": 145.728848,
+      "airlines": [
+        {
+          "name": "Hong Kong Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Hong Kong Airlines"
+    },
+    {
+      "iata": "SYD",
+      "icao": "YSSY",
+      "ourAirportsId": "YSSY",
+      "cityZh": "悉尼",
+      "cityEn": "Sydney–Kingsford Smith",
+      "cityKey": "Sydney",
+      "airportName": "Sydney Kingsford Smith International Airport",
+      "municipality": "Sydney (Mascot)",
+      "country": "AU",
+      "region": "OC",
+      "regionZh": "大洋洲",
+      "lat": -33.946098,
+      "lon": 151.177002,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Hong Kong Airlines",
+          "note": null,
+          "tags": []
+        },
+        {
+          "name": "Qantas",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific、Hong Kong Airlines、Qantas"
+    },
+    {
+      "iata": "ADD",
+      "icao": "HAAB",
+      "ourAirportsId": "HAAB",
+      "cityZh": "亞的斯亞貝巴",
+      "cityEn": "Addis Ababa",
+      "cityKey": "Addis Ababa",
+      "airportName": "Addis Ababa Bole International Airport",
+      "municipality": "Addis Ababa",
+      "country": "ET",
+      "region": "AF",
+      "regionZh": "非洲",
+      "lat": 8.97789,
+      "lon": 38.799301,
+      "airlines": [
+        {
+          "name": "Ethiopian Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Ethiopian Airlines"
+    },
+    {
+      "iata": "JNB",
+      "icao": "FAOR",
+      "ourAirportsId": "FAOR",
+      "cityZh": "約翰內斯堡",
+      "cityEn": "Johannesburg–O. R. Tambo",
+      "cityKey": "Johannesburg",
+      "airportName": "O.R. Tambo International Airport",
+      "municipality": "Johannesburg",
+      "country": "ZA",
+      "region": "AF",
+      "regionZh": "非洲",
+      "lat": -26.140081,
+      "lon": 28.246801,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "iata": "ALA",
+      "icao": "UAAA",
+      "ourAirportsId": "UAAA",
+      "cityZh": "阿拉木圖",
+      "cityEn": "Almaty",
+      "cityKey": "Almaty",
+      "airportName": "Almaty International Airport",
+      "municipality": "Almaty",
+      "country": "KZ",
+      "region": "OA",
+      "regionZh": "其他亞洲（中亞／蒙古）",
+      "lat": 43.354267,
+      "lon": 77.042828,
+      "airlines": [
+        {
+          "name": "Cathay Pacific",
+          "note": "2027-01-09 開航",
+          "tags": [
+            "新開航"
+          ]
+        }
+      ],
+      "notes": [
+        "Cathay Pacific：2027-01-09 開航"
+      ],
+      "airlinesRaw": "Cathay Pacific（2027-01-09 開航）"
+    },
+    {
+      "iata": "UBN",
+      "icao": "ZMCK",
+      "ourAirportsId": "ZMCK",
+      "cityZh": "烏蘭巴托",
+      "cityEn": "Ulaanbaatar",
+      "cityKey": "Ulaanbaatar",
+      "airportName": "Ulaanbaatar Chinggis Khaan International Airport",
+      "municipality": "Ulaanbaatar (Sergelen)",
+      "country": "MN",
+      "region": "OA",
+      "regionZh": "其他亞洲（中亞／蒙古）",
+      "lat": 47.646916,
+      "lon": 106.819833,
+      "airlines": [
+        {
+          "name": "MIAT Mongolian Airlines",
+          "note": null,
+          "tags": []
+        }
+      ],
+      "notes": [],
+      "airlinesRaw": "MIAT Mongolian Airlines"
+    }
+  ]
+}

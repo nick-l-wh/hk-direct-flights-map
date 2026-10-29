@@ -1,0 +1,917 @@
+{
+  "description": "Passenger nonstop destinations from HKG, extracted from the Wikipedia destination table compilation dated 2026-10-29. Airlines keep parenthetical seasonal/new/suspended notes.",
+  "routes": [
+    {
+      "region": "AF",
+      "cityZh": "亞的斯亞貝巴",
+      "cityEn": "Addis Ababa",
+      "airlinesRaw": "Ethiopian Airlines"
+    },
+    {
+      "region": "AF",
+      "cityZh": "約翰內斯堡",
+      "cityEn": "Johannesburg–O. R. Tambo",
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "region": "CN",
+      "cityZh": "北京首都",
+      "cityEn": "Beijing–Capital",
+      "airlinesRaw": "Air China、Cathay Pacific、Hong Kong Airlines"
+    },
+    {
+      "region": "CN",
+      "cityZh": "北京大興",
+      "cityEn": "Beijing–Daxing",
+      "airlinesRaw": "Air China、China Eastern Airlines、China Southern Airlines、HK Express、Hong Kong Airlines"
+    },
+    {
+      "region": "CN",
+      "cityZh": "長春",
+      "cityEn": "Changchun",
+      "airlinesRaw": "Hainan Airlines"
+    },
+    {
+      "region": "CN",
+      "cityZh": "長沙",
+      "cityEn": "Changsha",
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "region": "CN",
+      "cityZh": "常州",
+      "cityEn": "Changzhou",
+      "airlinesRaw": "HK Express"
+    },
+    {
+      "region": "CN",
+      "cityZh": "成都雙流",
+      "cityEn": "Chengdu–Shuangliu",
+      "airlinesRaw": "Air China、Cathay Pacific、Hong Kong Airlines、Sichuan Airlines"
+    },
+    {
+      "region": "CN",
+      "cityZh": "成都天府",
+      "cityEn": "Chengdu–Tianfu",
+      "airlinesRaw": "Air China、Shenzhen Airlines、Tibet Airlines"
+    },
+    {
+      "region": "CN",
+      "cityZh": "重慶",
+      "cityEn": "Chongqing",
+      "airlinesRaw": "Air China、Cathay Pacific、Chongqing Airlines、Greater Bay Airlines（季節性）、Hong Kong Airlines"
+    },
+    {
+      "region": "CN",
+      "cityZh": "大連",
+      "cityEn": "Dalian",
+      "airlinesRaw": "Air China"
+    },
+    {
+      "region": "CN",
+      "cityZh": "大同",
+      "cityEn": "Datong",
+      "airlinesRaw": "Greater Bay Airlines（季節性）"
+    },
+    {
+      "region": "CN",
+      "cityZh": "敦煌",
+      "cityEn": "Dunhuang",
+      "airlinesRaw": "Greater Bay Airlines、Hong Kong Airlines（季節性）"
+    },
+    {
+      "region": "CN",
+      "cityZh": "恩施",
+      "cityEn": "Enshi",
+      "airlinesRaw": "Greater Bay Airlines"
+    },
+    {
+      "region": "CN",
+      "cityZh": "福州",
+      "cityEn": "Fuzhou",
+      "airlinesRaw": "Cathay Pacific、XiamenAir"
+    },
+    {
+      "region": "CN",
+      "cityZh": "廣州",
+      "cityEn": "Guangzhou",
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "region": "CN",
+      "cityZh": "桂林",
+      "cityEn": "Guilin",
+      "airlinesRaw": "Greater Bay Airlines"
+    },
+    {
+      "region": "CN",
+      "cityZh": "海口",
+      "cityEn": "Haikou",
+      "airlinesRaw": "Cathay Pacific、Hainan Airlines、Hong Kong Airlines"
+    },
+    {
+      "region": "CN",
+      "cityZh": "海拉爾",
+      "cityEn": "Hailar",
+      "airlinesRaw": "Hong Kong Airlines"
+    },
+    {
+      "region": "CN",
+      "cityZh": "杭州",
+      "cityEn": "Hangzhou",
+      "airlinesRaw": "Air China、Cathay Pacific、China Eastern Airlines、Hong Kong Airlines、Loong Air"
+    },
+    {
+      "region": "CN",
+      "cityZh": "哈爾濱",
+      "cityEn": "Harbin",
+      "airlinesRaw": "China Southern Airlines"
+    },
+    {
+      "region": "CN",
+      "cityZh": "合肥",
+      "cityEn": "Hefei",
+      "airlinesRaw": "China Eastern Airlines、HK Express（2026-12-03 開航）"
+    },
+    {
+      "region": "CN",
+      "cityZh": "呼和浩特",
+      "cityEn": "Hohhot",
+      "airlinesRaw": "Greater Bay Airlines"
+    },
+    {
+      "region": "CN",
+      "cityZh": "濟南",
+      "cityEn": "Jinan",
+      "airlinesRaw": "Shandong Airlines"
+    },
+    {
+      "region": "CN",
+      "cityZh": "昆明",
+      "cityEn": "Kunming",
+      "airlinesRaw": "China Eastern Airlines、Greater Bay Airlines（季節性）"
+    },
+    {
+      "region": "CN",
+      "cityZh": "蘭州",
+      "cityEn": "Lanzhou",
+      "airlinesRaw": "China Eastern Airlines"
+    },
+    {
+      "region": "CN",
+      "cityZh": "拉薩",
+      "cityEn": "Lhasa",
+      "airlinesRaw": "Tibet Airlines"
+    },
+    {
+      "region": "CN",
+      "cityZh": "麗江",
+      "cityEn": "Lijiang",
+      "airlinesRaw": "Hong Kong Airlines"
+    },
+    {
+      "region": "CN",
+      "cityZh": "南京",
+      "cityEn": "Nanjing",
+      "airlinesRaw": "Cathay Pacific、China Eastern Airlines、Hong Kong Airlines"
+    },
+    {
+      "region": "CN",
+      "cityZh": "南寧",
+      "cityEn": "Nanning",
+      "airlinesRaw": "Shenzhen Airlines"
+    },
+    {
+      "region": "CN",
+      "cityZh": "寧波",
+      "cityEn": "Ningbo",
+      "airlinesRaw": "Cathay Pacific、China Eastern Airlines、HK Express"
+    },
+    {
+      "region": "CN",
+      "cityZh": "青島",
+      "cityEn": "Qingdao",
+      "airlinesRaw": "Cathay Pacific、Qingdao Airlines、Shandong Airlines"
+    },
+    {
+      "region": "CN",
+      "cityZh": "三亞",
+      "cityEn": "Sanya",
+      "airlinesRaw": "HK Express、Hong Kong Airlines"
+    },
+    {
+      "region": "CN",
+      "cityZh": "上海虹橋",
+      "cityEn": "Shanghai–Hongqiao",
+      "airlinesRaw": "Cathay Pacific、China Eastern Airlines、Hong Kong Airlines、Shanghai Airlines"
+    },
+    {
+      "region": "CN",
+      "cityZh": "上海浦東",
+      "cityEn": "Shanghai–Pudong",
+      "airlinesRaw": "Cathay Pacific、China Eastern Airlines、Hong Kong Airlines、Juneyao Air、Shanghai Airlines、Spring Airlines"
+    },
+    {
+      "region": "CN",
+      "cityZh": "瀋陽",
+      "cityEn": "Shenyang",
+      "airlinesRaw": "China Southern Airlines（季節性）"
+    },
+    {
+      "region": "CN",
+      "cityZh": "石家莊",
+      "cityEn": "Shijiazhuang",
+      "airlinesRaw": "Hebei Airlines"
+    },
+    {
+      "region": "CN",
+      "cityZh": "太原",
+      "cityEn": "Taiyuan",
+      "airlinesRaw": "China Eastern Airlines"
+    },
+    {
+      "region": "CN",
+      "cityZh": "天津",
+      "cityEn": "Tianjin",
+      "airlinesRaw": "Air China"
+    },
+    {
+      "region": "CN",
+      "cityZh": "溫州",
+      "cityEn": "Wenzhou",
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "region": "CN",
+      "cityZh": "武漢",
+      "cityEn": "Wuhan",
+      "airlinesRaw": "Cathay Pacific、China Eastern Airlines"
+    },
+    {
+      "region": "CN",
+      "cityZh": "無錫",
+      "cityEn": "Wuxi",
+      "airlinesRaw": "HK Express、Shenzhen Airlines"
+    },
+    {
+      "region": "CN",
+      "cityZh": "西安",
+      "cityEn": "Xi'an",
+      "airlinesRaw": "Cathay Pacific、China Eastern Airlines、Hong Kong Airlines（季節性）"
+    },
+    {
+      "region": "CN",
+      "cityZh": "廈門",
+      "cityEn": "Xiamen",
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "region": "CN",
+      "cityZh": "西寧",
+      "cityEn": "Xining",
+      "airlinesRaw": "Hong Kong Airlines（季節性）"
+    },
+    {
+      "region": "CN",
+      "cityZh": "徐州",
+      "cityEn": "Xuzhou",
+      "airlinesRaw": "Greater Bay Airlines"
+    },
+    {
+      "region": "CN",
+      "cityZh": "宜昌",
+      "cityEn": "Yichang",
+      "airlinesRaw": "Greater Bay Airlines"
+    },
+    {
+      "region": "CN",
+      "cityZh": "銀川",
+      "cityEn": "Yinchuan",
+      "airlinesRaw": "Air China、XiamenAir"
+    },
+    {
+      "region": "CN",
+      "cityZh": "義烏",
+      "cityEn": "Yiwu",
+      "airlinesRaw": "HK Express"
+    },
+    {
+      "region": "CN",
+      "cityZh": "運城",
+      "cityEn": "Yuncheng",
+      "airlinesRaw": "Tibet Airlines"
+    },
+    {
+      "region": "CN",
+      "cityZh": "張家界",
+      "cityEn": "Zhangjiajie",
+      "airlinesRaw": "Greater Bay Airlines"
+    },
+    {
+      "region": "CN",
+      "cityZh": "鄭州",
+      "cityEn": "Zhengzhou",
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "region": "CN",
+      "cityZh": "舟山",
+      "cityEn": "Zhoushan",
+      "airlinesRaw": "Greater Bay Airlines"
+    },
+    {
+      "region": "CN",
+      "cityZh": "烏魯木齊",
+      "cityEn": "Ürümqi",
+      "airlinesRaw": "Cathay Pacific、China Southern Airlines、Greater Bay Airlines（季節性）、Hong Kong Airlines、Urumqi Air"
+    },
+    {
+      "region": "EU",
+      "cityZh": "阿姆斯特丹",
+      "cityEn": "Amsterdam",
+      "airlinesRaw": "Cathay Pacific、KLM"
+    },
+    {
+      "region": "EU",
+      "cityZh": "巴塞隆拿",
+      "cityEn": "Barcelona",
+      "airlinesRaw": "Cathay Pacific（季節性）"
+    },
+    {
+      "region": "EU",
+      "cityZh": "布魯塞爾",
+      "cityEn": "Brussels",
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "region": "EU",
+      "cityZh": "法蘭克福",
+      "cityEn": "Frankfurt",
+      "airlinesRaw": "Cathay Pacific、Lufthansa"
+    },
+    {
+      "region": "EU",
+      "cityZh": "赫爾辛基",
+      "cityEn": "Helsinki",
+      "airlinesRaw": "Finnair"
+    },
+    {
+      "region": "EU",
+      "cityZh": "倫敦希斯路",
+      "cityEn": "London–Heathrow",
+      "airlinesRaw": "British Airways、Cathay Pacific"
+    },
+    {
+      "region": "EU",
+      "cityZh": "馬德里",
+      "cityEn": "Madrid",
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "region": "EU",
+      "cityZh": "曼徹斯特",
+      "cityEn": "Manchester",
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "region": "EU",
+      "cityZh": "米蘭",
+      "cityEn": "Milan–Malpensa",
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "region": "EU",
+      "cityZh": "莫斯科",
+      "cityEn": "Moscow–Sheremetyevo",
+      "airlinesRaw": "Aeroflot"
+    },
+    {
+      "region": "EU",
+      "cityZh": "慕尼黑",
+      "cityEn": "Munich",
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "region": "EU",
+      "cityZh": "巴黎",
+      "cityEn": "Paris–Charles de Gaulle",
+      "airlinesRaw": "Air France、Cathay Pacific"
+    },
+    {
+      "region": "EU",
+      "cityZh": "羅馬",
+      "cityEn": "Rome–Fiumicino",
+      "airlinesRaw": "Cathay Pacific（季節性）"
+    },
+    {
+      "region": "EU",
+      "cityZh": "蘇黎世",
+      "cityEn": "Zurich",
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "region": "JP",
+      "cityZh": "福岡",
+      "cityEn": "Fukuoka",
+      "airlinesRaw": "Cathay Pacific、Greater Bay Airlines、HK Express、Hong Kong Airlines"
+    },
+    {
+      "region": "JP",
+      "cityZh": "廣島",
+      "cityEn": "Hiroshima",
+      "airlinesRaw": "HK Express"
+    },
+    {
+      "region": "JP",
+      "cityZh": "石垣",
+      "cityEn": "Ishigaki",
+      "airlinesRaw": "HK Express"
+    },
+    {
+      "region": "JP",
+      "cityZh": "小松",
+      "cityEn": "Komatsu",
+      "airlinesRaw": "HK Express"
+    },
+    {
+      "region": "JP",
+      "cityZh": "名古屋中部",
+      "cityEn": "Nagoya–Centrair",
+      "airlinesRaw": "Cathay Pacific、HK Express"
+    },
+    {
+      "region": "JP",
+      "cityZh": "沖繩那霸",
+      "cityEn": "Naha",
+      "airlinesRaw": "Greater Bay Airlines、HK Express、Hong Kong Airlines"
+    },
+    {
+      "region": "JP",
+      "cityZh": "大阪關西",
+      "cityEn": "Osaka–Kansai",
+      "airlinesRaw": "Cathay Pacific、Greater Bay Airlines、HK Express、Hong Kong Airlines、Peach"
+    },
+    {
+      "region": "JP",
+      "cityZh": "札幌新千歲",
+      "cityEn": "Sapporo–Chitose",
+      "airlinesRaw": "Cathay Pacific、Greater Bay Airlines（季節性）、Hong Kong Airlines"
+    },
+    {
+      "region": "JP",
+      "cityZh": "仙台",
+      "cityEn": "Sendai",
+      "airlinesRaw": "Greater Bay Airlines（2026-12-17 復航）、HK Express"
+    },
+    {
+      "region": "JP",
+      "cityZh": "下地島",
+      "cityEn": "Shimojishima",
+      "airlinesRaw": "HK Express（季節性）"
+    },
+    {
+      "region": "JP",
+      "cityZh": "高松",
+      "cityEn": "Takamatsu",
+      "airlinesRaw": "HK Express"
+    },
+    {
+      "region": "JP",
+      "cityZh": "東京羽田",
+      "cityEn": "Tokyo–Haneda",
+      "airlinesRaw": "All Nippon Airways、Cathay Pacific、HK Express、Japan Airlines"
+    },
+    {
+      "region": "JP",
+      "cityZh": "東京成田",
+      "cityEn": "Tokyo–Narita",
+      "airlinesRaw": "All Nippon Airways、Cathay Pacific、Greater Bay Airlines、HK Express、Hong Kong Airlines、Japan Airlines、Jetstar Japan"
+    },
+    {
+      "region": "KR",
+      "cityZh": "釜山",
+      "cityEn": "Busan",
+      "airlinesRaw": "Air Busan、Eastar Jet、HK Express、Trinity Airways"
+    },
+    {
+      "region": "KR",
+      "cityZh": "清州",
+      "cityEn": "Cheongju",
+      "airlinesRaw": "HK Express"
+    },
+    {
+      "region": "KR",
+      "cityZh": "大邱",
+      "cityEn": "Daegu",
+      "airlinesRaw": "HK Express"
+    },
+    {
+      "region": "KR",
+      "cityZh": "濟州",
+      "cityEn": "Jeju",
+      "airlinesRaw": "HK Express、Jin Air"
+    },
+    {
+      "region": "KR",
+      "cityZh": "首爾仁川",
+      "cityEn": "Seoul–Incheon",
+      "airlinesRaw": "Air Busan（季節性）、Air Premia、Asiana Airlines、Cathay Pacific、Eastar Jet、HK Express、Hong Kong Airlines、Jeju Air、Korean Air、Trinity Airways"
+    },
+    {
+      "region": "ME",
+      "cityZh": "阿布扎比",
+      "cityEn": "Abu Dhabi",
+      "airlinesRaw": "Etihad Airways"
+    },
+    {
+      "region": "ME",
+      "cityZh": "多哈",
+      "cityEn": "Doha",
+      "airlinesRaw": "Qatar Airways"
+    },
+    {
+      "region": "ME",
+      "cityZh": "杜拜",
+      "cityEn": "Dubai–International",
+      "airlinesRaw": "Cathay Pacific（暫停，2027-01-31 復航）、Emirates"
+    },
+    {
+      "region": "ME",
+      "cityZh": "伊斯坦堡",
+      "cityEn": "Istanbul",
+      "airlinesRaw": "Turkish Airlines"
+    },
+    {
+      "region": "ME",
+      "cityZh": "利雅得",
+      "cityEn": "Riyadh",
+      "airlinesRaw": "Cathay Pacific（暫停，2027-01-31 復航）"
+    },
+    {
+      "region": "NA",
+      "cityZh": "波士頓",
+      "cityEn": "Boston",
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "region": "NA",
+      "cityZh": "芝加哥",
+      "cityEn": "Chicago–O'Hare",
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "region": "NA",
+      "cityZh": "達拉斯",
+      "cityEn": "Dallas/Fort Worth",
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "region": "NA",
+      "cityZh": "洛杉磯",
+      "cityEn": "Los Angeles",
+      "airlinesRaw": "Cathay Pacific、Delta Air Lines、United Airlines"
+    },
+    {
+      "region": "NA",
+      "cityZh": "紐約",
+      "cityEn": "New York–JFK",
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "region": "NA",
+      "cityZh": "三藩市",
+      "cityEn": "San Francisco",
+      "airlinesRaw": "Cathay Pacific、United Airlines"
+    },
+    {
+      "region": "NA",
+      "cityZh": "西雅圖",
+      "cityEn": "Seattle/Tacoma",
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "region": "NA",
+      "cityZh": "多倫多",
+      "cityEn": "Toronto–Pearson",
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "region": "NA",
+      "cityZh": "溫哥華",
+      "cityEn": "Vancouver",
+      "airlinesRaw": "Air Canada、Cathay Pacific、Hong Kong Airlines"
+    },
+    {
+      "region": "OA",
+      "cityZh": "阿拉木圖",
+      "cityEn": "Almaty",
+      "airlinesRaw": "Cathay Pacific（2027-01-09 開航）"
+    },
+    {
+      "region": "OA",
+      "cityZh": "烏蘭巴托",
+      "cityEn": "Ulaanbaatar",
+      "airlinesRaw": "MIAT Mongolian Airlines"
+    },
+    {
+      "region": "OC",
+      "cityZh": "阿德萊德",
+      "cityEn": "Adelaide",
+      "airlinesRaw": "Cathay Pacific（季節性）"
+    },
+    {
+      "region": "OC",
+      "cityZh": "奧克蘭",
+      "cityEn": "Auckland",
+      "airlinesRaw": "Air New Zealand、Cathay Pacific"
+    },
+    {
+      "region": "OC",
+      "cityZh": "布里斯本",
+      "cityEn": "Brisbane",
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "region": "OC",
+      "cityZh": "基督城",
+      "cityEn": "Christchurch",
+      "airlinesRaw": "Cathay Pacific（季節性）"
+    },
+    {
+      "region": "OC",
+      "cityZh": "帛琉科羅爾",
+      "cityEn": "Koror",
+      "airlinesRaw": "Greater Bay Airlines（季節性）、Hong Kong Airlines（季節性）"
+    },
+    {
+      "region": "OC",
+      "cityZh": "墨爾本",
+      "cityEn": "Melbourne",
+      "airlinesRaw": "Cathay Pacific、Hong Kong Airlines、Qantas"
+    },
+    {
+      "region": "OC",
+      "cityZh": "楠迪",
+      "cityEn": "Nadi",
+      "airlinesRaw": "Fiji Airways"
+    },
+    {
+      "region": "OC",
+      "cityZh": "珀斯",
+      "cityEn": "Perth",
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "region": "OC",
+      "cityZh": "莫士比港",
+      "cityEn": "Port Moresby",
+      "airlinesRaw": "Air Niugini"
+    },
+    {
+      "region": "OC",
+      "cityZh": "塞班",
+      "cityEn": "Saipan",
+      "airlinesRaw": "Hong Kong Airlines"
+    },
+    {
+      "region": "OC",
+      "cityZh": "悉尼",
+      "cityEn": "Sydney–Kingsford Smith",
+      "airlinesRaw": "Cathay Pacific、Hong Kong Airlines、Qantas"
+    },
+    {
+      "region": "SA",
+      "cityZh": "班加羅爾",
+      "cityEn": "Bengaluru",
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "region": "SA",
+      "cityZh": "清奈",
+      "cityEn": "Chennai",
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "region": "SA",
+      "cityZh": "科倫坡",
+      "cityEn": "Colombo–Bandaranaike",
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "region": "SA",
+      "cityZh": "德里",
+      "cityEn": "Delhi–Indira Gandhi",
+      "airlinesRaw": "Air India、Cathay Pacific、IndiGo"
+    },
+    {
+      "region": "SA",
+      "cityZh": "達卡",
+      "cityEn": "Dhaka",
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "region": "SA",
+      "cityZh": "海德拉巴",
+      "cityEn": "Hyderabad",
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "region": "SA",
+      "cityZh": "加德滿都",
+      "cityEn": "Kathmandu",
+      "airlinesRaw": "Cathay Pacific、Nepal Airlines"
+    },
+    {
+      "region": "SA",
+      "cityZh": "馬累",
+      "cityEn": "Malé",
+      "airlinesRaw": "Greater Bay Airlines（季節性）、Hong Kong Airlines（季節性）"
+    },
+    {
+      "region": "SA",
+      "cityZh": "孟買",
+      "cityEn": "Mumbai–Shivaji",
+      "airlinesRaw": "Cathay Pacific"
+    },
+    {
+      "region": "SEA",
+      "cityZh": "斯里巴加灣",
+      "cityEn": "Bandar Seri Begawan",
+      "airlinesRaw": "Royal Brunei Airlines"
+    },
+    {
+      "region": "SEA",
+      "cityZh": "曼谷廊曼",
+      "cityEn": "Bangkok–Don Mueang",
+      "airlinesRaw": "Thai AirAsia、Thai Lion Air"
+    },
+    {
+      "region": "SEA",
+      "cityZh": "曼谷素旺那普",
+      "cityEn": "Bangkok–Suvarnabhumi",
+      "airlinesRaw": "Cathay Pacific、Emirates、Greater Bay Airlines、HK Express、Hong Kong Airlines、Thai Airways International、United Airlines"
+    },
+    {
+      "region": "SEA",
+      "cityZh": "宿霧",
+      "cityEn": "Cebu",
+      "airlinesRaw": "Cathay Pacific、Cebu Pacific"
+    },
+    {
+      "region": "SEA",
+      "cityZh": "清邁",
+      "cityEn": "Chiang Mai",
+      "airlinesRaw": "HK Express"
+    },
+    {
+      "region": "SEA",
+      "cityZh": "克拉克",
+      "cityEn": "Clark",
+      "airlinesRaw": "Cebu Pacific、HK Express"
+    },
+    {
+      "region": "SEA",
+      "cityZh": "峴港",
+      "cityEn": "Da Nang",
+      "airlinesRaw": "HK Express、Hong Kong Airlines"
+    },
+    {
+      "region": "SEA",
+      "cityZh": "納卯",
+      "cityEn": "Davao",
+      "airlinesRaw": "Cebu Pacific"
+    },
+    {
+      "region": "SEA",
+      "cityZh": "峇里",
+      "cityEn": "Denpasar",
+      "airlinesRaw": "Cathay Pacific、Hong Kong Airlines"
+    },
+    {
+      "region": "SEA",
+      "cityZh": "河內",
+      "cityEn": "Hanoi",
+      "airlinesRaw": "Cathay Pacific、HK Express、Sun PhuQuoc Airways、Vietnam Airlines"
+    },
+    {
+      "region": "SEA",
+      "cityZh": "胡志明市",
+      "cityEn": "Ho Chi Minh City",
+      "airlinesRaw": "Cathay Pacific、United Airlines、VietJet Air、Vietnam Airlines"
+    },
+    {
+      "region": "SEA",
+      "cityZh": "怡朗",
+      "cityEn": "Iloilo",
+      "airlinesRaw": "Cebu Pacific"
+    },
+    {
+      "region": "SEA",
+      "cityZh": "雅加達",
+      "cityEn": "Jakarta–Soekarno-Hatta",
+      "airlinesRaw": "Cathay Pacific、Garuda Indonesia"
+    },
+    {
+      "region": "SEA",
+      "cityZh": "蘇梅島",
+      "cityEn": "Koh Samui",
+      "airlinesRaw": "Bangkok Airways"
+    },
+    {
+      "region": "SEA",
+      "cityZh": "亞庇",
+      "cityEn": "Kota Kinabalu",
+      "airlinesRaw": "AirAsia、HK Express"
+    },
+    {
+      "region": "SEA",
+      "cityZh": "吉隆坡",
+      "cityEn": "Kuala Lumpur",
+      "airlinesRaw": "AirAsia、Batik Air Malaysia、Cathay Pacific、Greater Bay Airlines（季節性）、Malaysia Airlines"
+    },
+    {
+      "region": "SEA",
+      "cityZh": "吉隆坡梳邦",
+      "cityEn": "Kuala Lumpur–Subang",
+      "airlinesRaw": "HK Express"
+    },
+    {
+      "region": "SEA",
+      "cityZh": "馬尼拉",
+      "cityEn": "Manila",
+      "airlinesRaw": "Cathay Pacific、Cebu Pacific、Greater Bay Airlines、HK Express、Philippine Airlines"
+    },
+    {
+      "region": "SEA",
+      "cityZh": "芽莊",
+      "cityEn": "Nha Trang",
+      "airlinesRaw": "HK Express"
+    },
+    {
+      "region": "SEA",
+      "cityZh": "檳城",
+      "cityEn": "Penang",
+      "airlinesRaw": "Cathay Pacific、HK Express"
+    },
+    {
+      "region": "SEA",
+      "cityZh": "金邊",
+      "cityEn": "Phnom Penh",
+      "airlinesRaw": "Air Cambodia、Cambodia Airways、Cathay Pacific"
+    },
+    {
+      "region": "SEA",
+      "cityZh": "富國島",
+      "cityEn": "Phu Quoc",
+      "airlinesRaw": "Greater Bay Airlines、HK Express、Sun PhuQuoc Airways、VietJet Air"
+    },
+    {
+      "region": "SEA",
+      "cityZh": "布吉",
+      "cityEn": "Phuket",
+      "airlinesRaw": "Cathay Pacific、HK Express"
+    },
+    {
+      "region": "SEA",
+      "cityZh": "新加坡",
+      "cityEn": "Singapore",
+      "airlinesRaw": "Cathay Pacific、Scoot、Singapore Airlines"
+    },
+    {
+      "region": "SEA",
+      "cityZh": "泗水",
+      "cityEn": "Surabaya",
+      "airlinesRaw": "Cathay Pacific、Greater Bay Airlines"
+    },
+    {
+      "region": "SEA",
+      "cityZh": "斗湖",
+      "cityEn": "Tawau",
+      "airlinesRaw": "Greater Bay Airlines（季節性）"
+    },
+    {
+      "region": "SEA",
+      "cityZh": "永珍",
+      "cityEn": "Vientiane",
+      "airlinesRaw": "Hong Kong Airlines"
+    },
+    {
+      "region": "TW",
+      "cityZh": "高雄",
+      "cityEn": "Kaohsiung",
+      "airlinesRaw": "Cathay Pacific、China Airlines、EVA Air、HK Express、Mandarin Airlines"
+    },
+    {
+      "region": "TW",
+      "cityZh": "台中",
+      "cityEn": "Taichung",
+      "airlinesRaw": "HK Express"
+    },
+    {
+      "region": "TW",
+      "cityZh": "台北桃園",
+      "cityEn": "Taipei–Taoyuan",
+      "airlinesRaw": "Cathay Pacific、China Airlines、EVA Air、Greater Bay Airlines、HK Express、Hong Kong Airlines、Starlux Airlines"
+    }
+  ]
+}
